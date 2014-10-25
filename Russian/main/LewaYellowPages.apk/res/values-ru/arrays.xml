@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yellowpages_group_items">
+        <item>Доставка еды</item>
+        <item>Гостиницы</item>
+        <item>Логистика</item>
+        <item>Банк</item>
+        <item>Поезда/Авиация</item>
+        <item>Уборка</item>
+        <item>Переезд</item>
+        <item>Работа</item>
+        <item>Техника</item>
+        <item>Вождение</item>
+        <item>Электроэнергия</item>
+        <item>Образование</item>
+        <item>Горячие линии</item>
+        <item>Избранное</item>
+    </string-array>
+    <array name="yellowpages_nearby_categoty_items">
+        <item>Лакомка</item>
+        <item>Лакомка</item>
+        <item>Магазины</item>
+        <item>Отделения банков</item>
+        <item>Продажа билетов</item>
+        <item>Домохозяйство</item>
+        <item>Переезд</item>
+        <item>Кадровые агентства</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

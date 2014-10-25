@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="default_smiley_names">
+        <item>Радостный</item>
+        <item>Грустный</item>
+        <item>Подмигивает</item>
+        <item>Показывает язык</item>
+        <item>Удивлен</item>
+        <item>Поцелуй</item>
+        <item>Кричит</item>
+        <item>Крутой</item>
+        <item>Не болтай попусту</item>
+        <item>В замешательстве</item>
+        <item>Смущение</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачет</item>
+        <item>Не скажу</item>
+        <item>Смех</item>
+        <item>Озадаченный</item>
+        <item>Сердце</item>
+        <item>Злой</item>
+        <item>Ухмылка</item>
+        <item>Покерфейс</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Ты где?</item>
+        <item>Чем занимаешься?</item>
+        <item>Перезвони! Пожалуйста!</item>
+        <item>Извини, я на встрече.</item>
+        <item>Скоро перезвоню.</item>
+        <item>Не волнуйся! Я в порядке.</item>
+        <item>На пути домой.</item>
+        <item>Скоро прибуду.</item>
+        <item>Будь там!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Ограниченный режим</item>
+        <item>Режим предупреждения</item>
+        <item>Свободный режим</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_values">
+        <item>Ограничение</item>
+        <item>Предупреждение</item>
+        <item>Свободно</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Высокий</item>
+        <item>Нормальный</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_values">
+        <item>Высокий</item>
+        <item>Нормальный</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM-алфавит</item>
+        <item>Юникод</item>
+        <item>Авто</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_values">
+        <item>GSM алфавит</item>
+        <item>Юникод</item>
+        <item>Авто</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="ims_ip_call_setting_items">
+        <item>Вызовы на дальние расстояния</item>
+        <item>Все вызовы</item>
+    </string-array>
+    <string-array name="pref_sms_backup_location">
+        <item>sdcard</item>
+        <item>sdcard2</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Заметка</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>Без темы</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек</item>
+        <item>2 сек</item>
+        <item>3 сек</item>
+        <item>4 сек</item>
+        <item>5 сек</item>
+        <item>6 сек</item>
+        <item>7 сек</item>
+        <item>8 сек</item>
+        <item>9 сек</item>
+        <item>10 сек</item>
+        <item>Другое...</item>
+    </string-array>
+</resources>

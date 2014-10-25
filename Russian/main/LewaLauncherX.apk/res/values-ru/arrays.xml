@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Стандарт</item>
+        <item>Отскок</item>
+        <item>Вращение вниз</item>
+        <item>Переворот</item>
+        <item>Куб внутри</item>
+        <item>Куб снаружи</item>
+        <item>Аккордеон</item>
+        <item>Карусель</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+    <string-array name="large_screen_layout">
+        <item>4 * 4</item>
+        <item>4 * 5</item>
+        <item>4 * 6</item>
+        <item>5 * 5</item>
+        <item>5 * 6</item>
+    </string-array>
+    <string-array name="large_screen_layout_value">
+        <item>4|4</item>
+        <item>4|5</item>
+        <item>4|6</item>
+        <item>5|5</item>
+        <item>5|6</item>
+    </string-array>
+    <string-array name="ex_large_screen_layout">
+        <item>4 * 4</item>
+        <item>4 * 5</item>
+        <item>4 * 6</item>
+        <item>5 * 5</item>
+        <item>5 * 6</item>
+    </string-array>
+    <string-array name="ex_large_screen_layout_value">
+        <item>4|4</item>
+        <item>4|5</item>
+        <item>4|6</item>
+        <item>5|5</item>
+        <item>5|6</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>@string/extra_tiny_icon_size</item>
+        <item>@string/tiny_icon_size</item>
+        <item>@string/small_icon_size</item>
+        <item>@string/normal_icon_size</item>
+        <item>@string/big_icon_size</item>
+    </string-array>
+    <string-array name="icon_size_value">
+        <item>0.6f</item>
+        <item>0.7f</item>
+        <item>0.8f</item>
+        <item>0.9f</item>
+        <item>1.0f</item>
+    </string-array>
+
+
+
+
+    <string-array name="app_category">
+        <item>Жизнь</item>
+        <item>Общение</item>
+        <item>Соц.сети</item>
+        <item>Безопасность</item>
+        <item>Аудио/чтение</item>
+        <item>Темы/обои</item>
+        <item>Просмотр</item>
+        <item>Обучение</item>
+        <item>Свои игры</item>
+        <item>Прочее</item>
+    </string-array>
+    <string-array name="game_second_category">
+        <item>Стратегии</item>
+        <item>Экшн</item>
+        <item>Полет</item>
+        <item>Приключения</item>
+        <item>Симуляторы</item>
+        <item>Прочее</item>
+        <item>Моб.игры</item>
+        <item>Спорт</item>
+        <item>Пазлы</item>
+        <item>Настольные</item>
+    </string-array>
+    <array name="wallpapers" />
+</resources>

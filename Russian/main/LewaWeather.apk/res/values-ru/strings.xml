@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_weather">Погода</string>
+    <string name="settings">Настройки</string>
+    <string name="temp_settings">Настройки температуры</string>
+    <string name="warn">напоминание</string>
+    <string name="celsius">Цельсий ℃</string>
+
+    <string name="fahrenheit">Фаренгейт ℉</string>
+
+
+    <string name="city_manage">Управление городами</string>
+    <string name="note_pull_down">Потяните вниз для обновления</string>
+    <string name="note_release_refresh">Обновления</string>
+    <string name="note_refresh_loading">Обновление</string>
+    <string name="update_waiting">Получение данных ...</string>
+    <string name="no_network">Проверьте сетевое соединение</string>
+    <string name="no_data">Нет данных</string>
+    <string name="request_fail">Не удалось получить данные</string>
+    <string name="parse_fail">Аналитические данные неудачные</string>
+    <string name="get_success">Данные успешно получены</string>
+    <string name="btn_ok">ОК</string>
+    <string name="city_list">Список городов</string>
+    <string name="city_add">Добавить город</string>
+    <string name="city_edit">Редактировать город</string>
+    <string name="delete">удаление</string>
+    <string name="one_at_least">Выберите хотя бы один город</string>
+
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="visibility">Видимость</string>
+    <string name="humidity">Влажность</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="air_pollution_index">Индекс загрязнения</string>
+
+
+
+
+
+    <string name="air_pm10_text">Твердые частицы</string>
+
+
+    <string name="air_publish">Unit：μg/m³   Опубликовано：</string>
+    <string name="unknown">неизв.</string>
+    <string name="entercity">Пожалуйста, введите название города</string>
+    <string name="hot_cities">Топ города</string>
+    <string name="contacts_cities">Города друзей</string>
+    <string name="search_cities">Поиск города</string>
+    <string name="auto_location">Расположение</string>
+    <string name="no_net">Сеть недоступна</string>
+    <string name="location_wait">Определение местоположения, ожидайте...</string>
+    <string name="locate_fail">Определение местоположения не удалось</string>
+    <string name="sudden_weather_alert">Внезапное предупреждение</string>
+    <string name="already_know">Известно</string>
+    <string name="taday">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="time">Время</string>
+    <string name="time_4x2">Время</string>
+    <string name="lunar">Лунный</string>
+    <string name="weather_no_data">Нет данных</string>
+    <string name="weather_unknown">Неизв.</string>
+    <string name="no_weather_data">Нет данных о погоде</string>
+    <string name="v5_nolocation">Нет местоположения</string>
+    <string name="v5_add_city">Нажмите для установки</string>
+    <string name="temporary">Временно</string>
+    <string name="release">Обновление</string>
+    <string name="pressure_unit"> гПа</string>
+    <string name="visibility_unit"> км</string>
+    <string name="no_more_city_add">Нельзя добавить больше городов</string>
+    <string name="fields_add_fail">Только четыре</string>
+    <string name="latest">Последние данные</string>
+    <string name="fields_add_success">“%s”наверх</string>
+    <string name="about_data_source">Источник данных погоды</string>
+    <string name="thinkpage_provide">Данные погоды предоставляются ThinkPage</string>
+    <string name="late_night">Поздняя ночь</string>
+    <string name="before_dawn">Рассвет</string>
+    <string name="Morning">Утро</string>
+
+    <string name="noon">Полдень</string>
+
+    <string name="nightfall">Темнота</string>
+    <string name="evening">Вечер</string>
+    <string name="app_name_weather_time">Погода</string>
+    <string name="netWorkInvalid">Нет сети</string>
+    <string name="noWeatherInfo">Нет данных</string>
+</resources>
