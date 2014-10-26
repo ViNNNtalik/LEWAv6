@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ОК</string>
+    <string name="notifilter_setting">Настройки фильтра уведомлений</string>
+    <string name="notifilter_activity_title">Настройки фильтра уведомлений</string>
+    <string name="notifilter_cloud">Облачный перехват уведомлений</string>
+    <string name="notifilter_addtoblack">Добавить в черный список</string>
+    <string name="notifilter_del">Удалить из черного списка</string>
+    <string name="notifilter_allow">Разрешить</string>
+    <string name="notifilter_denie">Отклонить</string>
+    <string name="notifilter_item_activity">Менеджер уведомлений</string>
+    <string name="notifilter_cloudtip">"Интеллектуальная база рекламы для перехвата и блокировки уведомлений.
+Последняя версия:"</string>
+    <string name="notifilter_cloudloading">Загрузка с Облака...</string>
+    <string name="notifilter_cloudlasttime">Последняя загрузка:</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
+    <string name="app_name">Уведомления</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LIP-сервис</string>
+
+    <string name="download">Загрузка</string>
+    <string name="notification_update_all">Доступно обновление файлов!</string>
+    <string name="notification_update_game">Доступно обновление игр!</string>
+    <string name="notification_have_new_version">Получить новую версию</string>
+
+
+
+
+
+
+</resources>

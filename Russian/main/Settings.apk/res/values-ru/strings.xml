@@ -2680,7 +2680,7 @@
 
 
 
-    <string name="please_input_pwd">Ввод</string>
+    <string name="please_input_pwd">Ввод пароля</string>
     <string name="sure_input_pwd">Подтверждение</string>
     <string name="input_again">Забыть</string>
     <string name="password_not_equals">Не совпадает</string>
