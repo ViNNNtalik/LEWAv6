@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
     <string name="config_import_vcard_type">По умолчанию</string>
     <string name="config_export_vcard_type">По умолчанию</string>
-
-
-
-
-
-
-
-
     <string name="dev_info_title">Описание устройства</string>
     <string name="dev_info_model">Модель</string>
     <string name="dev_info_version">Версия</string>
@@ -796,7 +786,7 @@
     <string name="store_in_simCard">Сохранить на SIM</string>
     <string name="store_in_usimCard">Сохранить на USIM</string>
     <string name="store_in_google_account">Хранить в аккаунте Google</string>
-    <string name="add_more_info">Данные</string>
+    <string name="add_more_info">+ Добавить данные</string>
     <string name="add_more_info_title">Добавить данные</string>
     <string name="no_more_info_add">Нет больше информации для добавления</string>
     <string name="add_SIP_to_sim">Невозможно добавить номер SIP для контакта SIM/USIM.</string>
