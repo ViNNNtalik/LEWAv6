@@ -940,7 +940,6 @@
     <string name="pref_camera_exposuremeter_entry_center">Центр</string>
     <string name="pref_camera_exposuremeter_entry_spot">Точка</string>
     <string name="pref_camera_exposuremeter_entry_average">Среднее</string>
-    <string name="create_album_fail_emptyname">Введите имя альбома</string>
     <string name="pref_camera_jpegquality_title">Качество JPEG</string>
     <string name="pref_camera_jpegquality_entry_superfine">Максим.</string>
     <string name="pref_camera_jpegquality_entry_fine">Высокое</string>

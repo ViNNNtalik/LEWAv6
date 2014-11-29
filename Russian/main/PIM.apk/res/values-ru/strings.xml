@@ -1394,7 +1394,6 @@
     <string name="pref_summary_notify_enable">Уведомление и проверка кода подтверждения для входа</string>
     <string name="pref_title_notify_enable">Отображаемая информация</string>
     <string name="menu_prompt_quick_position">Фамилия</string>
-    <string name="page">Страница %d:</string>
     <string name="play_as_slideshow">Воспроизведение MMS как слайд-шоу</string>
     <string name="copy_to_phone">Успешно скопировано</string>
     <string name="callto">Вызов:</string>
@@ -1508,7 +1507,6 @@
     <string name="wp_msg_priority_medium">Средний</string>
     <string name="wp_msg_priority_high">Высокий</string>
     <string name="menu_goto_browser">Открыть браузер</string>
-    <string name="menu_add_to_bookmark">Добавить в закладку</string>
     <string name="wp_msg_expiration_label">Истекло: %s</string>
     <string name="pref_title_wappush_settings">Настройка сервисного сообщения</string>
     <string name="pref_title_wappush_sl_autoloading">Автозапуск загрузки сервиса</string>
@@ -1624,7 +1622,6 @@
     <string name="folder_recieve_date">Дата :</string>
     <string name="folder_download">MMS загружено</string>
     <string name="confirm_download_message">подтвердить загрузку сообщения</string>
-    <string name="play_as_slideshow">Воспроизвести MMS как слайдшоу</string>
     <string name="invalid_contact_message">Контакт не существует</string>
     <string name="by_card">По:</string>
     <string name="page">Страница %d:</string>
