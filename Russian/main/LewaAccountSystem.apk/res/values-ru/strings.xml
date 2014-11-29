@@ -54,7 +54,7 @@
     <string name="user_selfIntroduction">Представление</string>
     <string name="user_selfIntroduction_lenght">%1$s слов введено</string>
     <string name="user_selfIntroduction_toast">Вы ничего не ввели</string>
-    <string name="user_passwordLevel">Пароль</string>
+    <string name="user_passwordLevel">Смена пароля</string>
     <string name="user_maskedPhone">Номер телефона</string>
     <string name="user_masekedEmail">Эл.почта</string>
     <string name="user_no_value">Не введено</string>
@@ -146,6 +146,7 @@
     <string name="input_check_error_confirm_password">Пароли не совпадают</string>
     <string name="input_check_error_phone_null">Введите номер телефона</string>
     <string name="input_check_error_email_null">Введите адрес эл. почты</string>
+    <string name="input_check_error_nickname_null">Введите ник</string>
     <string name="spam_register_toast">Слишком мало времени между попытками. Попробуйте через %1$s мин.</string>
     <string name="spam_retrieve_toast">Повторные попытки для поиска пароля не разрешены. Попробуйте через %1$s мин.</string>
     <string name="spam_phone_modify_toast">Слишком мало времени между попытками. Попробуйте через %1$s мин.</string>

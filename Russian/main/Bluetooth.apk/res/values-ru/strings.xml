@@ -11,7 +11,7 @@
     <string name="unknownNumber">Неизвестно</string>
     <string name="airplane_error_title">Режим полета</string>
     <string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth</string>
-    <string name="bt_enable_title" />
+    <string name="bt_enable_title">Разрешения для Bluebooth</string>
     <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth</string>
     <string name="bt_enable_line2">Включить Bluetooth?</string>
     <string name="bt_enable_cancel">Отмена</string>

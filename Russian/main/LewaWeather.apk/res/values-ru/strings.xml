@@ -69,6 +69,7 @@
     <string name="pressure_unit"> гПа</string>
     <string name="visibility_unit"> км</string>
     <string name="no_more_city_add">Нельзя добавить больше городов</string>
+    <string name="already_city_add">Город уже добавлен</string>
     <string name="fields_add_fail">Только четыре</string>
     <string name="latest">Последние данные</string>
     <string name="fields_add_success">“%s”наверх</string>
@@ -85,4 +86,5 @@
     <string name="app_name_weather_time">Погода</string>
     <string name="netWorkInvalid">Нет сети</string>
     <string name="noWeatherInfo">Нет данных</string>
+    <string name="sdcard_io_error">Ошибка SD-карты</string>
 </resources>

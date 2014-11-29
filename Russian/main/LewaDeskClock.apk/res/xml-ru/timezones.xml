@@ -68,7 +68,7 @@
     <timezone id="Asia/Shanghai" weatherID="2132579">Нинбо</timezone>
     <timezone id="Asia/Shanghai" weatherID="2132582">Вэньчжоу</timezone>
     <timezone id="Asia/Chongqing" weatherID="2158434">Чунцин</timezone>
-    <timezone id="America/Guyana" weatherID="727232">Амстердам</timezone>
+    <timezone id="Europe/Amsterdam" weatherID="727232">Амстердам</timezone>
     <timezone id="Europe/Brussels" weatherID="966591">Антверпен</timezone>
     <timezone id="Europe/Athens" weatherID="946738">Афины</timezone>
     <timezone id="Europe/Belgrade" weatherID="532697">Белград</timezone>
@@ -108,7 +108,7 @@
     <timezone id="America/Caracas" weatherID="379176">Асунсьон</timezone>
     <timezone id="America/New_York" weatherID="2357024">Атланта</timezone>
     <timezone id="America/Bogota" weatherID="368148">Богота</timezone>
-    <timezone id="Europe/London" weatherID="2367105">Бостон</timezone>
+    <timezone id="America/Boston" weatherID="2367105">Бостон</timezone>
     <timezone id="America/Sao_Paulo" weatherID="455819">Бразилиа</timezone>
     <timezone id="America/Argentina/Buenos_Aires" weatherID="468739">Буэнос-Айрес</timezone>
     <timezone id="America/Guayaquil" weatherID="395269">Каракас</timezone>

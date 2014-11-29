@@ -399,7 +399,7 @@
     <string name="pref_settings_flit_title">Фильтр</string>
 
     <string name="pref_settings_video_title">Настройки</string>
-    <string name="pref_settings_weather_title">Погода</string>
+    <string name="pref_settings_weather_title">Печать</string>
     <string name="pref_settings_weather_none_data">Нет данных</string>
     <string name="pref_settings_close">Закрыть</string>
     <string name="none_weather_data_tip">Нет данных о погоде</string>
@@ -524,6 +524,7 @@
     <string name="rename_message">Переименование</string>
     <string name="menu_addto">Добавить к</string>
     <string name="menu_show_mapview">Карта</string>
+    <string name="menu_show_photo_list">Список фото</string>
     <string name="ic_more">Еще</string>
     <string name="select_files">Выбор файла</string>
     <string name="brightness">Яркость</string>
@@ -896,6 +897,8 @@
 
     <string name="create_album_fail_exists">Создание альбома не удалось, название уже существует</string>
     <string name="create_album_fail_pecial_char">Создание альбома не удалось, в названии недопустимые символы</string>
+    <string name="create_album_fail_makdir">Не удалось создать альбом, ошибка создания папки</string>
+    <string name="create_album_fail_emptyname">Введите название альбома</string>
     <string name="drm_protectioninfo_title">Защита информации</string>
     <string name="new_sim">Новая SIM-карта</string>
     <string name="VideoView_error_text_invalid_connection">Ошибка соединения. (Ошибка 403)</string>

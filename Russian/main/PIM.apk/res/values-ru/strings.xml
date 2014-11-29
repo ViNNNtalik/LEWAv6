@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
     <string name="config_import_vcard_type">По умолчанию</string>
     <string name="config_export_vcard_type">По умолчанию</string>
+
+
+
+
+
+
+
+
     <string name="dev_info_title">Описание устройства</string>
     <string name="dev_info_model">Модель</string>
     <string name="dev_info_version">Версия</string>
@@ -581,8 +591,8 @@
     <string name="account_type_local_phone">Локальная учетная запись телефона</string>
     <string name="local_account_type">Локальная учетная запись</string>
     <string name="local_account_label">Локальная учетная запись</string>
-    <string name="account_type_sim_label">SIM-карта</string>
-    <string name="account_type_usim_label">USIM-карта</string>
+    <string name="account_type_sim_label">Только SIM-карта</string>
+    <string name="account_type_usim_label">Только USIM-карта</string>
     <string name="label_contactsframent">Контакты</string>
     <string name="label_mmsframent">Сообщения</string>
     <string name="label_calllogframent">Вызовы</string>
@@ -702,13 +712,13 @@
     <string name="block_voice_incoming_call">Непосредственная блокировка входящих голосовых вызовов</string>
     <string name="block_video_incoming_call">Непосредственная блокировка входящих видеовызовов</string>
     <string name="menu_manually_refresh">Обновить</string>
-    <string name="add_to_blacklist">Добавить в черный список</string>
+    <string name="add_to_blacklist">Добавить</string>
     <string name="clear_from_blacklist">Удалить из черного списка</string>
     <string name="add_to_autorecord_list">Добавить в автозапись</string>
     <string name="clear_from_autorecord_list">Отмена автозаписи</string>
     <string name="addblack_dec">Замечание (необязательно)</string>
     <string name="importsms_black">Импорт всех SMS на номер</string>
-    <string name="deleteCallLogConfirmation_title">Удалить вызов(ы)?</string>
+    <string name="deleteCallLogConfirmation_title">Удалить вызов(ы)</string>
     <string name="call_detail_deleteConfirmation_message">Вы уверенны, что хотите удалить выбранные вызовы??</string>
     <string name="send_contact_info">Отправить информацию о контакте</string>
     <string name="contact_name">Имя</string>
@@ -915,7 +925,7 @@
     <string name="yellowpages_detail_error_label">Ошибка</string>
     <string name="yellowpages_detail_error_description">Помощь обеспечивается по телефонному номеру</string>
     <string name="label_yellowpages_mark">%s людей отмечено</string>
-    <string name="pref_title_auto_clean_notificion_mms">Автоматически очищенное сообщение уведомления</string>
+    <string name="pref_title_auto_clean_notificion_mms">Автоматически удалять уведомления</string>
     <string name="addContactToAutoRecordConfirmation_message">Добавить контакт в список автозаписи разговоров?</string>
     <string name="removeContactFromAutoRecordConfirmation_message">Удалить контакт из списка автозаписи разговоров?</string>
     <string name="also_open_auto_phone_record">Одновременная запись вызовов</string>
@@ -1354,7 +1364,14 @@
     <string name="mms_too_big_to_download">Сообщение слишком большое для загрузки из сети</string>
     <string name="error_unsupported_scheme">В настоящее время это действие не поддерживается.</string>
     <string name="discard_message">Отменить</string>
-
+    <string name="menu_add_to_bookmark">В закладки</string>
+    <string name="sms_open_link_url_title">Подтверждение открытия ссылки</string>
+    <string name="sms_forwarded_setting_title">Настройки переадресации SMS</string>
+    <string name="sms_forwarded_setting_info">Переадресация с информацией об отправителе принятого сообщения</string>
+    <string name="compose_disabled_toast">"Ошибка. Нет SMS-приложения по умолчанию"</string>
+    <string name="sending_disabled_not_default_app">Отправка без включения</string>
+    <string name="sync_mms_to_db">Загрузка...</string>
+    <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Импорт vCard</string>
     <string name="attach_vcard">Контакт</string>
     <string name="failed_to_parse_vcard">Не удалось обработать файл vCard!</string>
@@ -1376,6 +1393,20 @@
     <string name="copy_text_success">Успешно скопировано</string>
     <string name="pref_summary_notify_enable">Уведомление и проверка кода подтверждения для входа</string>
     <string name="pref_title_notify_enable">Отображаемая информация</string>
+    <string name="menu_prompt_quick_position">Фамилия</string>
+    <string name="page">Страница %d:</string>
+    <string name="play_as_slideshow">Воспроизведение MMS как слайд-шоу</string>
+    <string name="copy_to_phone">Успешно скопировано</string>
+    <string name="callto">Вызов:</string>
+    <string name="smsto">Отправка:</string>
+    <string name="switch_data_subscription">Переключение данных</string>
+    <string name="switch_data_subscription_success"> успешно</string>
+    <string name="switch_data_subscription_failed">неудачно</string>
+    <string name="abort_mms">Сообщение: Отмена MMS</string>
+    <string name="abort_mms_text ">Нажмите для отмены</string>
+    <string name="progress_mms_title">Передача MMS в процессе</string>
+    <string name="progress_mms">Сообщение: передача MMS...</string>
+    <string name="progress_mms_text ">Нажмите для повтора</string>
     <string name="menu_print">Печать</string>
     <string name="printContact">Распечатать контакт через</string>
     <string name="no_way_to_print">Нет приложений для печати.</string>

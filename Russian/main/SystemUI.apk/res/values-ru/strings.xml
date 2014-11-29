@@ -284,7 +284,7 @@
     <string name="widget_exceed">Превышено</string>
     <string name="not_set">Не задано</string>
 
-    <string name="widget_remain">Лево</string>
+    <string name="widget_remain">Осталось</string>
     <string name="widget_today_usage">Сегодня</string>
     <string name="netusage">Трафик</string>
     <string name="single_page_title">Одна страница</string>

@@ -166,5 +166,6 @@
     <string name="applying_wallpaper_message">Установка обоев%s...</string>
     <string name="applying_theme_success">Тема применена успешно!</string>
     <string name="applying_wallpaper_success">Обои установленны успешно!</string>
-    <string name="wallpaper">обои</string>
+    <string name="wallpaper">Обои</string>
+    <string name="copy_text_info">Копировать</string>
 </resources>

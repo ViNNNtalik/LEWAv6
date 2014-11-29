@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="limit_hint_text">Достигнут лимит ввода</string>
     <string name="search_text_hint">Песня, Альбом, Исполнитель</string>
     <string name="favorite_remove_successfully_toast_text">Удалено из Избранного</string>
     <string name="song_add_to" formatted="false">%s добавить в %s</string>
@@ -114,6 +115,7 @@
     <string name="sleep_tip">Пожалуйста, установите таймер для остановки (в мин)</string>
     <string name="sleep_set_ok">Воспроизведение остановится через %1$d мин.</string>
     <string name="sleep_close_ok">Таймер сна остановлен</string>
+    <string name="sleep_start_ok">Таймер сна запущен</string>
 
 
     <string name="ok">ОК</string>

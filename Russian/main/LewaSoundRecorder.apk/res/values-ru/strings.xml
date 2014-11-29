@@ -60,7 +60,7 @@
     <string name="recording_notitication">Запись</string>
     <string name="pause_record">Пауза</string>
 
-    <string name="tv_prompt">Подсказка: Нажмите клавишу домой для проигрывания записи</string>
+    <string name="tv_prompt">Подсказка: Нажмите клавишу Домой для записи в фоне</string>
     <string name="sounder_file">Запись файлов</string>
     <string name="filename_to_save">"Имя файла: "</string>
     <string name="save_confirm">Сохранить</string>
@@ -69,4 +69,10 @@
     <string name="cancel_save_toast_display">Отказ от сохранения записи</string>
     <string name="playing_record_toast">Воспроизведение</string>
 
+    <string name="default_name_saved">Сохранено с именем по умолчанию</string>
+    <string name="too_short_to_save">Время записи слишком короткое, не удается сохранить</string>
+    <string name="storage_problem_stop_record">Ошибка накопителя, запись прервана</string>
+    <string name="file_name_special_characters">Нельзя сохранить из-за специфических символов</string>
+    <string name="no_recording">Не записывается</string>
+    <string name="file_suffix_problem">Ошибка имени файла, попробуйте заново</string>
 </resources>

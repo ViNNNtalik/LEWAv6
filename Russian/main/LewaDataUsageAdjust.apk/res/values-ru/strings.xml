@@ -18,4 +18,8 @@
     <string name="label_data_left">Осталось</string>
     <string name="label_data_used">Использовано</string>
     <string name="label_partner">Техническая поддержка: Tencent Mobile Manager</string>
+    <string name="usage_data_province">Выбор провинции</string>
+    <string name="usage_data_city">Выбор города</string>
+    <string name="usage_data_carrier">Выбор оператора</string>
+    <string name="usage_data_brand">Выбор типа SIM</string>
 </resources>

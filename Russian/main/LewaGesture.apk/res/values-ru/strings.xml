@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="LewaGesture_app_name">Жесты</string>
-    <string name="hello_world1">Hello world!</string>
-    <string name="action_settings">Настройки</string>
-    <string name="two_fingers_slide">Слайд двумя пальцами</string>
-    <string name="three_fingers_slide">Слайд тремя пальцами</string>
-    <string name="screen_shot">Скриншот</string>
-    <string name="screenshot_saving_ticker">Сохранение скриншота…</string>
-    <string name="screenshot_saving_title">Сохранение скриншота…</string>
-    <string name="screenshot_saving_text">Cкриншот сохранен</string>
-    <string name="screenshot_saved_title">Cкриншот создан</string>
-    <string name="screenshot_saved_text">Нажмите для просмотра скриншота</string>
-    <string name="screenshot_failed_title">"Не удалось создать скриншот"</string>
-    <string name="screenshot_failed_text">"Не удалось сохранить скриншот. Хранилище занято"</string>
-    <string name="share">Поделиться</string>
-    <string name="screenshot_title">Скриншот</string>
-    <string name="confirm_custom_screenshot">Подтвердить</string>
+     <string name="LewaGesture_app_name">Жесты</string>
+     <string name="hello_world1">Hello world!</string>
+     <string name="action_settings">Настройки</string>
+     <string name="two_fingers_slide">Слайд двумя пальцами</string>
+     <string name="three_fingers_slide">Слайд тремя пальцами</string>
+     <string name="screen_shot">Скриншот</string>
+     <string name="screenshot_saving_ticker">Сохранение...</string>
+     <string name="screenshot_saving_title">Сохранение...</string>
+     <string name="screenshot_saving_text">Сохранение...</string>
+     <string name="screenshot_saved_title">Скриншот сохранен</string>
+     <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
+     <string name="screenshot_failed_title">Не удалось сделать скриншот</string>
+     <string name="screenshot_failed_text">Не удалось сделать скриншот. Хранилище занято</string>
+     <string name="saving_screenshot_failed_title">Не удалось сохранить скриншот</string>
+     <string name="screenshot_failed_storage_busy">Хранилище занято</string>
+     <string name="screenshot_failed_no_free_storage">Недостаточно места на хранилище</string>
+     <string name="screenshot_failed_no_permission_access">Недостаточно прав для доступа к хранилищу</string>
+     <string name="screenshot_failed_no_permission_take_screenshot">Недостаточно прав чтобы сделать скриншот</string>
+     <string name="screenshot_failed_screenshotwindow_busy">Окно скриншота заблокировано (отладка)</string>
+     <string name="share">Поделиться</string>
+     <string name="screenshot_title">Скриншот</string>
+     <string name="confirm_custom_screenshot">Подтвердить</string>
+     <string name="toast_saving_screenshot_finished">Скриншот сохранен в %1$s</string>
+     <string name="toast_default_storage_busy">Нет свободного места на устройстве хранения по умолчанию</string>
+     <string name="toast_storage_locaiton_changed">Изменить место хранения скриншотов с %1$s на %2$s?</string>
 </resources>

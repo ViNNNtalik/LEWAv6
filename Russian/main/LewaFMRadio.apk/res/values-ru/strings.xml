@@ -124,4 +124,5 @@
     <string name="toast_earphone_plug_in">наушники подключены</string>
     <string name="toast_earphone_plug_out">наушники отключены</string>
     <string name="toast_noantenna_text">Наушники не подключены!</string>
+    <string name="i_know">Получить</string>
 </resources>

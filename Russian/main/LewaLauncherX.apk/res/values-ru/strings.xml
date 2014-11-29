@@ -127,6 +127,7 @@
     <string name="download_failed_hint">%s не загружено</string>
     <string name="download_failed_nospace">Нет места для загрузки</string>
     <string name="download_failed_other">Загрузка не удалась, попробуйте позже</string>
+    <string name="downloading_sort">Сортировка загрузки</string>
     <string name="noti_install_success_text">Установка завершена, нажмите для запуска</string>
     <string name="noti_install_failed_text">Установка не удалась</string>
     <string name="hidden_app_title">Скрытые приложения</string>
