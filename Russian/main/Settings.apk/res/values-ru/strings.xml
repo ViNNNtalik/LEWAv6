@@ -2724,6 +2724,9 @@
     <string name="lw_dialog_reboot_cancel">Отмена</string>
     <string name="lock_screen_message">Отображать сообщения</string>
     <string name="lock_screen_message_summary">Отображение на локскрине сообщений, информации о звонках</string>
+    <string name="bird_hand_title">Режим под правую или левую руку</string>
+    <string name="lewa_applock_title">Блокировка приложений</string>
+    <string name="lewa_applock_summary">Необходимо задать пароль перед блокировкой</string>
     <string name="locale_language_zh_cn">Китайский (упрощ.)</string>
     <string name="locale_language_zh_tw">Китайский</string>
     <string name="locale_language_en">Английский</string>

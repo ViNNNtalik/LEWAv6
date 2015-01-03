@@ -223,6 +223,5 @@
     <timezone id="America/Sao_Paulo" weatherID="9001010">Сан-Пауло</timezone>
     <timezone id="America/Sao_Paulo" weatherID="9001029">Рио-де-Жанейро</timezone>
     <timezone id="Canada/Pacific" weatherID="9001030">Аклавик</timezone>
-    <timezone id="Asia/Seoul" weatherID="9001031">Сеул</timezone>
     <timezone id="America/Chicago" weatherID="9001032">Сан-Пауло</timezone>
 </timezones>

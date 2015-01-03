@@ -3,7 +3,7 @@
     <string name="account_name">Аккаунт Lewa</string>
     <string name="lewaAccountSystem">Аккаунт Lewa</string>
     <string name="login_activity_title">Логин %1$s</string>
-    <string name="login_name_hint">Вход с помощью номера телефона или адреса эл. почты</string>
+    <string name="login_name_hint">Вход с помощью имени пользователя, номера телефона или адреса эл. почты</string>
     <string name="login">Логин</string>
     <string name="register">Регистрация</string>
     <string name="next">Далее</string>
@@ -42,7 +42,7 @@
 
 
     <string name="net_error">Сеть недоступна</string>
-    <string name="user_kicked">Осуществлен вход в аккаунт на другом устройстве</string>
+    <string name="user_kicked">Время входа истекло. Залогиньтесь заново</string>
     <string name="user_logout">Выход из аккаунта</string>
     <string name="user_info">Личная информация</string>
     <string name="user_account_security">Безопасность</string>
@@ -128,25 +128,26 @@
     <string name="register_phone_set_title">Установка пароля</string>
     <string name="register_phone_set_pw_label">Введите пароль</string>
     <string name="register_phone_set_pw_hint">Пароль должен содержать от 6 до 18 символов</string>
-    <string name="register_phone_set_nn_label">Введите Ваш ник (опционально)</string>
-    <string name="register_phone_set_nn_hint">Ник от 3 до 15 символов</string>
+    <string name="register_phone_set_un_label">Введите имя пользователя</string>
+    <string name="register_phone_set_un_hint">Ник от 3 до 15 символов</string>
     <string name="register_phone_set_next">Подписаться</string>
     <string name="register_email_set_email_label">Введите адрес эл. почты</string>
     <string name="register_email_set_pw_label">Задайте пароль</string>
     <string name="register_email_set_pw_hint">Пароль должен содержать от 6 до 18 символов</string>
-    <string name="register_email_set_nn_label">Введите Ваш ник (опционально)</string>
-    <string name="register_email_set_nn_hint">Ник от 3 до 15 символов</string>
+    <string name="register_email_set_un_label">Введите имя пользователя</string>
+    <string name="register_email_set_un_hint">Ник от 3 до 15 символов</string>
     <string name="register_email_check_info">Эл. письмо с аутентификацией отослано на %1$s</string>
     <string name="register_email_check_resend">Переотправка эл. письма через %1$s сек.</string>
     <string name="input_check_error_phone_or_email">Введите номер телефона или адрес эл. почты</string>
     <string name="input_check_error_phone">Неверный формат номера телефона</string>
     <string name="input_check_error_email">Неверный формат эл. почты</string>
+    <string name="input_check_error_account">Введите имя аккаунта</string>
     <string name="input_check_error_verify_code">Неверная капча</string>
     <string name="input_check_error_password">Неверный формат пароля</string>
     <string name="input_check_error_confirm_password">Пароли не совпадают</string>
     <string name="input_check_error_phone_null">Введите номер телефона</string>
     <string name="input_check_error_email_null">Введите адрес эл. почты</string>
-    <string name="input_check_error_nickname_null">Введите ник</string>
+    <string name="input_check_error_username_null">Введите имя пользователя</string>
     <string name="spam_register_toast">Слишком мало времени между попытками. Попробуйте через %1$s мин.</string>
     <string name="spam_retrieve_toast">Повторные попытки для поиска пароля не разрешены. Попробуйте через %1$s мин.</string>
     <string name="spam_phone_modify_toast">Слишком мало времени между попытками. Попробуйте через %1$s мин.</string>
@@ -173,8 +174,8 @@
     <string name="remote_email_exist">Эл. почта существует</string>
     <string name="remote_phone_exist">Номер телефона существует</string>
     <string name="remote_token_null">Знак не может быть пустым</string>
-    <string name="remote_nick_name_format_error">Длина ника от 3 до 15 символов</string>
-    <string name="remote_nick_name_exist">Ник существует</string>
+    <string name="remote_user_name_format_error">Длина имени пользователя от 3 до 15 символов</string>
+    <string name="remote_user_name_exist">Имя пользователя существует</string>
     <string name="remote_request_type_null">Неверный тип запроса</string>
     <string name="remote_message_type_error">Неверный тип сообщения</string>
     <string name="remote_user_uid_not_relevant">Пользователь и UID не совпадают</string>
@@ -189,4 +190,12 @@
     <string name="remote_invalid_device">Неправильное устройство</string>
     <string name="remote_verify_ok">Успешно проверено</string>
     <string name="remote_verify_spam">Слишком мало времени между попытками. Попробуйте через час</string>
+    <string name="remote_login_beyond">Вы осуществили вход на 5 устройствах. Выйдите на одном из них для логина</string>
+    <string name="dialog_user_name_title">Задать имя пользователя</string>
+    <string name="dialog_sex_title">Задать пол</string>
+    <string name="dialog_sex_male">Мужчина</string>
+    <string name="dialog_sex_female">Женщина</string>
+    <string name="dialog_sex_secret">Секрет</string>
+    <string name="dialog_age_title">Задать день рождения</string>
+    <string name="dialog_age_secret_label">"Не показывать мой возраст"</string>
 </resources>

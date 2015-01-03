@@ -130,4 +130,5 @@
     <string name="spm_inti_statusbar_entry">Войти снова</string>
     <string name="spm_inti_statusbar_exit">Временно выйти</string>
     <string name="spm_trickle_charge_title">Зарядка устройства</string>	
+    <string name="allowsavetime_toast">Время начала и окончания совпадает</string>
 </resources>

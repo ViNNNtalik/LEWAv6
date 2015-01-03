@@ -17,7 +17,7 @@
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Отменить</string>
     <string name="dlg_progress_title">Сканирование</string>
-    <string name="dlg_progress_text">Сканирование каналов…</string>
+    <string name="dlg_progress_text">Сканирование каналов...</string>
     <string name="dlg_addedit_station_name">Имя:</string>
     <string name="dlg_addedit_station_freq">Частота:</string>
     <string name="dlg_addedit_title_edit">Изменить канал</string>
@@ -48,7 +48,7 @@
     <string name="empty_list">Лист каналов пуст.</string>
     <string name="fm_recorder_name">FM-рекордер</string>
     <string name="toast_recording_lost_warning">Запись будет утеряна из-за извлечения SD-карты!</string>
-    <string name="toast_start_recording">Запуск записи…</string>
+    <string name="toast_start_recording">Запуск записи...</string>
     <string name="toast_sdcard_missing">SD-карта отсутствует!</string>
     <string name="toast_sdcard_insufficient_space">Недостаточно места на SD-карте!</string>
     <string name="toast_recorder_internal_error">Внутренняя ошибка в устройстве записи!</string>
@@ -69,7 +69,7 @@
     <string name="FMR_Antenna_short">Короткий</string>
     <string name="FMR_Antenna_long">Наушник</string>
     <string name="FMR_Status_text">Статус</string>
-    <string name="FMR_Force_Stereomono_text">Force Set:</string>
+    <string name="FMR_Force_Stereomono_text">Принудительно установить:</string>
     <string name="FMR_Status_Stereomono_text">Стерео/Моно:</string>
     <string name="FMR_Stereomono_stereo">Стерео</string>
     <string name="FMR_Stereomono_mono">Моно</string>
@@ -97,7 +97,7 @@
     <string name="insert_the_headset_prompt">"
 Подключите наушники для прослушивания радио
 "</string>
-    <string name="headset_prompt">Запрос наушников</string>
+    <string name="headset_prompt">Ожидание наушников</string>
     <string name="mhz">МГц</string>
     <string name="fm">FM</string>
     <string name="favorite_title">Избранное</string>
@@ -109,7 +109,7 @@
     <string name="adding_favorite_station">Добавление</string>
     <string name="delete_station_confirm">Удалить канал?</string>
     <string name="delete_station_title">Удаление канала</string>
-    <string name="empty_text">Нажмите кнопку ниже для поиска канала</string>
+    <string name="empty_text">Нажмите кнопку внизу для поиска каналов</string>
     <string name="accurate_change_frequency_title">Точное изменение частоты</string>
     <string name="accurate_change_frequency_hint">Введите частоту для прослушивания (МГц)</string>
     <string name="input_frequency_error">Неверно, частота должна быть в диапазоне 87.5~108.0</string>
@@ -124,5 +124,5 @@
     <string name="toast_earphone_plug_in">наушники подключены</string>
     <string name="toast_earphone_plug_out">наушники отключены</string>
     <string name="toast_noantenna_text">Наушники не подключены!</string>
-    <string name="i_know">Получить</string>
+    <string name="i_know">Продолжить</string>
 </resources>

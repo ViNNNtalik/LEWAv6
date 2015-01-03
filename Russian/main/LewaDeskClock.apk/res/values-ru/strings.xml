@@ -16,6 +16,7 @@
     <string name="hide_clock">Спрятать часы</string>
     <string name="label">Описание</string>
     <string name="default_label">Будильник</string>
+    <string name="default_label_for_alert">Уведомление о будильнике</string>
     <string name="set_alarm">Установить будильник</string>
     <string name="alarm_vibrate">Вибросигнал</string>
     <string name="alarm_repeat">Дни недели</string>
@@ -116,8 +117,9 @@
     <string name="menu_multichoice_select_all">Выбрать всё</string>
     <string name="menu_multichoice_clear_select">Снять выделение</string>
     <string name="time_zh_str">Киев</string>
-    <string name="early_time">Меньше на %1$s ч.</string>
-    <string name="later_time">Больше на %1$s ч.</string>
+    <string name="early_time">%1$s ч. %2$s мин. раньше</string>
+    <string name="later_time">%1$s ч. %2$s мин. позже</string>
+    <string name="current_timezone">Текущий часовой пояс</string>
     <string name="lab">Круг</string>
     <string name="left_text">Следующий будильник：</string>
     <string name="alarm_day">дн.</string>
@@ -134,12 +136,4 @@
     <string name="set_timezone">Настройки</string>
     <string name="please_select_one_more_citys">Выберите хотя бы один город</string>
     <string name="turn_snooze">Отложить сигнал переворотом</string>
-    <string name="repeat_everyday">Каждый день</string>
-    <string name="repeat_none">Не повторять</string>
-    <string name="alarm_alert_snooze_until">Период установлен в %s</string>
-    <string name="voice_ui_title">Управление голосом</string>
-    <string name="voice_ui_content_text">Управление голосом старта будильника</string>
-    <string name="alarm_command_summary_format">"Вы можете сказать %1$s или %2$s 
- Отложить или выключить сигнал."</string>
-    <string name="alarm_command_summary_format_land">Сказать %1$s или %2$s Отложить или выключить сигнал.</string>
 </resources>

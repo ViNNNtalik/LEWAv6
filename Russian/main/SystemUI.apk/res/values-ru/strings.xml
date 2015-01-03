@@ -167,6 +167,7 @@
     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
     <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
     <string name="status_bar_settings_battery_meter_min_format">%d</string>
+    <string name="guid">Ясно</string>
     <string name="otg_to_filemanager">Нажмите для запуска файлового менеджера</string>
     <string name="otg_connect">USB-хранилище подключено</string>
     <string name="otg_unmount">Безопасное извлечение</string>
@@ -289,7 +290,7 @@
     <string name="netusage">Трафик</string>
     <string name="single_page_title">Одна страница</string>
     <string name="single_page_summary">Одна страница с уведомлениями</string>
-    <string name="block_notification">Блокировка уведомлений</string>
+    <string name="block_notification">Блокир. уведомл.</string>
     <string name="notifications_empty">Нет уведомлений</string>
     <string name="pref_title_action_updown">Жесты рабочего стола</string>
     <string name="pref_summary_action_updown">Протяните вниз на рабочем столе для открытия уведомлений</string>

@@ -9,6 +9,7 @@
     <string name="app_source">Источник: </string>
     <string name="image_content">изображение</string>
     <string name="app_version">Версия: </string>
+    <string name="app_install_time">Время установки: </string>
     <string name="app_old_tip">Текущая версия: </string>
     <string name="app_new_tip">Новая версия: </string>
     <string name="app_size_tip">Размер: </string>

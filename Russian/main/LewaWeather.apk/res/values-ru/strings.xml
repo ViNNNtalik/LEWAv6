@@ -85,6 +85,7 @@
     <string name="evening">Вечер</string>
     <string name="app_name_weather_time">Погода</string>
     <string name="netWorkInvalid">Нет сети</string>
+    <string name="no_city_data">Город не добавлен</string>
     <string name="noWeatherInfo">Нет данных</string>
     <string name="sdcard_io_error">Ошибка SD-карты</string>
 </resources>

@@ -20,4 +20,5 @@
     <string name="debug_dump_email_sender_picker">Выберите приложение для отправки файла</string>
     <string name="debug_dump_email_subject">База контактов прикреплена</string>
     <string name="debug_dump_email_body">Будьте внимательны: в приложенном файле находится база данных с моими контактами</string>
+    <string name="unknown_number_location">Неизвестно</string>
 </resources>

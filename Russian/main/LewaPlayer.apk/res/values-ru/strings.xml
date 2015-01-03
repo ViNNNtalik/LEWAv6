@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="song_name_null_hint">Имя песни не может быть пустым</string>
+    <string name="artist_name_null_hint">Имя исполнителя не может быть пустым</string>
     <string name="limit_hint_text">Достигнут лимит ввода</string>
     <string name="search_text_hint">Песня, Альбом, Исполнитель</string>
     <string name="favorite_remove_successfully_toast_text">Удалено из Избранного</string>
     <string name="song_add_to" formatted="false">%s добавить в %s</string>
     <string name="setting_general">Общие настройки</string>
     <string name="share_title">Поделиться с друзьями</string>
-    <string name="share_content">"Я нашел шикарную песню в Музыке Lewa 
+    <string name="share_content">"Я нашел очень хорошую песню в Музыке Lewa, давайте послушаем песню 
  %1$s 
  %2$s"</string>
     <string name="text_all_album">Все локальные альбомы</string>
     <string name="nosdcard_title">SD-карта отключена</string>
     <string name="nousb_title">USB-хранилище отключено</string>
 
-    <string name="track_name_def">Нет песен</string>
+    <string name="track_name_def">Нет песен в списке</string>
     <string name="artist_name_def">Нет</string>
 
 
@@ -41,7 +43,7 @@
     <string name="photoPickerNotFoundText">Нет фото, доступных на устройстве</string>
     <string name="remove_song_text">Удаление песни из плейлиста</string>
     <string name="remove_song_file_text">Удаление песни</string>
-    <string name="remove_song_prompt_text">Удалить выбранное？</string>
+    <string name="remove_song_prompt_text">Удалить выбранное?</string>
     <string name="item_modify_text">Редактировать</string>
     <string name="item_remove_text">Удалить</string>
     <string name="remove_dialog_message_text">Удалить плейлист?</string>
@@ -51,16 +53,16 @@
     <string name="traffic_tip_message_text">Нет Wi-Fi, продолжение воспроизведения может привести к затратам на 3G</string>
     <string name="continue_play_text">Продолжить</string>
     <string name="cancel_cn_text">Отмена</string>
-    <string name="ok_cn_text">ОК</string>
-    <string name="no_artist_album_text">Не найдено песен исполнителя в локальной библиотеке</string>
+    <string name="ok_cn_text">OK</string>
+    <string name="no_artist_album_text">Не найдено песен исполнителя в библиотеке</string>
     <string name="no_sdcard_title_text">SD-карта недоступна</string>
     <string name="no_sdcard_message_text">Вставьте SD-карту и попробуйте заново</string>
-    <string name="text_all_local_songs">Вся локальная музыка</string>
+    <string name="text_all_local_songs">Вся музыка</string>
     <string name="playlist_dialog_title">Редактировать плейлист</string>
     <string name="remove_playlist_title">Удалить плейлист</string>
     <string name="cancel_text">Отмена</string>
     <string name="ok_text">ОК</string>
-    <string name="edit_song_text">Редактирование информации о песне</string>
+    <string name="edit_song_text">Изменить информацию о песне</string>
     <string name="new_songs_list">Новый плейлист</string>
     <string name="hot_songs_list">Новый ТОП-плейлист</string>
     <string name="edit_playlist">Редактировать</string>
@@ -90,10 +92,10 @@
     <string name="hint_song_name">Песня</string>
     <string name="hint_artist_name">Исполнитель</string>
     <string name="hint_album_name">Альбом</string>
-    <string name="remove_local_song_text">Удалить локальный музыкальный файл</string>
+    <string name="remove_local_song_text">Удалить музыкальный файл</string>
     <string name="text_create_new_play_list">Создать плейлист</string>
     <string name="text_my_favorites">Избранное</string>
-    <string name="text_title_add_to">Добавить в:</string>
+    <string name="text_title_add_to">Добавить выбранную песню в</string>
     <string name="song_synchronize">Сканирование музыкальных файлов</string>
     <string name="song_hound">Распознавание песни</string>
     <string name="sleep_mode">Спящий режим</string>
@@ -102,8 +104,8 @@
     <string name="exit">Выход</string>
 
 
-    <string name="albumsongseparator">,
-</string>
+    <string name="albumsongseparator">"
+"</string>
     <string name="notification_artist_album">"%2$s
 %1$s"</string>
     <string name="unknownwidget">Неизвестно</string>
@@ -118,11 +120,11 @@
     <string name="sleep_start_ok">Таймер сна запущен</string>
 
 
-    <string name="ok">ОК</string>
+    <string name="ok">OK</string>
     <string name="sleep_set">%1$d минут(ы)</string>
     <string name="record">Мои записи</string>
-    <string name="setting_auto_play">Автопроигрывание</string>
-    <string name="setting_auto_play_summary">Автоматическое проигрывание при возврате</string>
+    <string name="setting_auto_play">Автовоспроизведение</string>
+    <string name="setting_auto_play_summary">Автовоспроизведение музыки.</string>
 
     <string name="setting_backlight_title">Всегда вкл.</string>
 
@@ -148,7 +150,7 @@
     <string name="setting_bg_title">Изменить фон</string>
 
     <string name="setting_shake_title">Встряхнуть, чтобы пропустить</string>
-    <string name="setting_shake_summary">Встряхивание устройства, чтобы перейти к следующей песне</string>
+    <string name="setting_shake_summary">Встряхнуть устройство, чтобы перейти к следующей песне</string>
 
     <string name="shake_degree_title">Чувствительность встряхивания</string>
     <string name="shake_degree_summary">Настроить силу встряхивания для пропуска песни</string>
@@ -177,11 +179,11 @@
     <string name="delete_album_desc_nosdcard">Альбомы \"%s\" будут навсегда удалены из USB-хранилища</string>
     <string name="delete_song_desc">\"%s\" будут навсегда удалены с SD-карты</string>
     <string name="delete_song_desc_nosdcard">%s будут навсегда удалены из USB-хранилища</string>
-    <string name="delete_confirm_button_text">ОК</string>
-    <string name="scanning">Сканирование</string>
-    <string name="scanning_nosdcard">Нет SD-карты</string>
+    <string name="delete_confirm_button_text">OK</string>
+    <string name="scanning">Поиск на SD-карте</string>
+    <string name="scanning_nosdcard">Поиск на USB-хранилище</string>
     <string name="nowplaying_title">Сейчас играет</string>
-    <string name="partyshuffle_title">Частичное перемешивание</string>
+    <string name="partyshuffle_title">Перемешать</string>
     <string name="artists_title">Исполнители</string>
     <string name="albums_menu">Альбомы</string>
     <string name="albums_title">Альбомы</string>
@@ -198,9 +200,9 @@
     <string name="no_playlists_title">Нет плейлистов</string>
     <string name="delete_playlist_menu">Удалить</string>
     <string name="edit_playlist_menu">Редактировать</string>
-    <string name="repeat_single">Повтор одной песни</string>
-    <string name="repeat_all">Циклическое проигрывание</string>
-    <string name="shuffle">Случайный порядок</string>
+    <string name="repeat_single">Повторять эту песню</string>
+    <string name="repeat_all">Повтор</string>
+    <string name="shuffle">Случайно</string>
     <string name="rename_playlist_menu">Переименовать</string>
     <string name="playlist_deleted_message">Плейлист удален</string>
     <string name="playlist_renamed_message">Плейлист переименован</string>
@@ -258,7 +260,7 @@
     <string name="working_artists">Исполнители...</string>
     <string name="working_albums">Альбомы...</string>
     <string name="working_songs">Песни...</string>
-    <string name="working_playlists">Плейлисты…</string>
+    <string name="working_playlists">Плейлисты...</string>
     <string name="loading">Загрузка</string>
     <string name="sort_by_track">Песни</string>
     <string name="sort_by_album">Альбомы</string>
@@ -275,14 +277,14 @@
     <string name="click_to_shuffle">Случайное воспроизведение</string>
     <string name="music_setting">Параметры</string>
     <string name="setting_networking">Настройки сети</string>
-    <string name="flow_hint">Подсказка</string>
+    <string name="flow_hint">Подсказки</string>
     <string name="setting_flowhint_summary">При скачивании данных выводить всплывающие окна</string>
     <string name="file_filter">Фильтр файлов</string>
     <string name="filter_songs">Фильтр коротких песен</string>
     <string name="filter_songs_hint">Фильтрация аудиофайлов с небольшой продолжительностью (менее 1 минуты)</string>
     <string name="EQ">Эквалайзер</string>
-    <string name="adjust_EQ">Регулировать эквалайзер</string>
-    <string name="folder">Источник</string>
+    <string name="adjust_EQ">Настроить эквалайзер</string>
+    <string name="folder">Выбирите свою папку</string>
     <string name="choose_folder">Выбор папки(ок) с музыкой</string>
     <string name="setting_fade_title">Затухание громкости</string>
     <string name="setting_fade_summary">Затухание громкости при смене песни</string>
@@ -309,11 +311,13 @@
     <string name="title_actionbar_selected_items">%1$d выбрано</string>
     <string name="phone_no_songs">Нет песен</string>
     <string name="download_lrc_off_hint">Загрузка текстов песен выключена</string>
-    <string name="loadlrc">Загрузка......</string>
+    <string name="loadlrc">Загрузка...</string>
     <string name="no_network">Сеть недоступна</string>
     <string name="no_network_text">Нет сети, попробуйте позже</string>
+    <string name="no_copyright_text">Ограничения копирайта</string>
+    <string name="no_buffer_text">Ошибка буфера. Проверьте соединение</string>
     <string name="lrc_down_notfound">Тексты песен не найдены</string>
-    <string name="playcurrent_failed">%s не воспроизводится: неподдерживаемый формат или отсутствует файл</string>
+    <string name="playcurrent_failed">Не воспроизводится: неподдерживаемый формат или отсутствует файл</string>
 
     <string name="hk_tw">Гонконг и Тайвань</string>
     <string name="west">Европа</string>
@@ -330,8 +334,8 @@
     <string name="downloading">Загрузка</string>
     <string name="download_paused">на паузе</string>
     <string name="add_to_download">“%s” добавить в список загрузки</string>
-    <string name="enter_name">Пожалуйста введите название песни или имя певца</string>
+    <string name="enter_name">Пожалуйста введите название песни или имя исполнителя</string>
     <string name="clear_histroy">Очистка истории</string>
     <string name="no_result">Музыка не найдена</string>
-    <string name="song_num_add_to_playlist">%1$d песен в плейлист</string>
+    <string name="song_num_add_to_playlist">Добавить %1$d песен в плейлист</string>
 </resources>

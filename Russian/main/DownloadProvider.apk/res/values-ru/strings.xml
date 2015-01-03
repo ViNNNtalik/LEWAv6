@@ -5,7 +5,7 @@
     <string name="ok">OK</string>
     <string name="download_file_already_exist">Файл уже существует, перезаписать?</string>
     <string name="notification_download_complete_op01">Файл сохранен в:</string>
-    <string name="app_label">Диспетчер загрузки</string>
+    <string name="app_label">Менеджер загрузок</string>
     <string name="permlab_downloadManager">Доступ к менеджеру загрузок</string>
     <string name="permdesc_downloadManager">Приложение получит доступ к менеджеру загрузок и сможет загружать файлы через него. Вредоносные приложения смогут таким образом прерывать загрузки и просматривать личную информацию</string>
     <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузок</string>
@@ -17,7 +17,7 @@
     <string name="permlab_downloadCacheNonPurgeable">Резервирование места в кэше</string>
     <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузок потребуется больше места</string>
     <string name="permlab_downloadWithoutNotification">Загрузка файлов без оповещения</string>
-    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузок без уведомления пользователя</string>
+    <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через менеджер загрузок без уведомления пользователя</string>
     <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
     <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое приложение они были загружены</string>
     <string name="download_unknown_title">&lt;Без названия></string>

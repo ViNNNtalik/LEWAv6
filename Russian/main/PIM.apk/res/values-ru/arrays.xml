@@ -369,4 +369,10 @@
         <item>10 сек</item>
         <item>Другое...</item>
     </string-array>
+    <string-array name="pref_auto_clean_notificion_mms_entries">
+       <item>Через 30 дней</item>
+       <item>Через 20 дней</item>
+       <item>Через 10 дней</item>
+       <item>Не удалять</item>
+    </string-array>
 </resources>

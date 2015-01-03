@@ -133,6 +133,7 @@
     <string name="sim_status">Проверьте SIM-карту</string>
     <string name="ranking_choose_title">Выбор сортировки</string>
     <string name="usage_cycle_title">Выбор интервала</string>
+    <string name="data_pack_set_incorrect">Трафик предупреждения больше лимита, введите заново</string>
     <string name="megabyteShort">Мб</string>
     <string name="gigabyteShort">Гб</string>
     <string name="zero_percent">0%</string>

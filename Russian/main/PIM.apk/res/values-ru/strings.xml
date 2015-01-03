@@ -952,7 +952,17 @@
     <string name="detail_qq_call">Голосовое общение (бесплатно по Wi-Fi)</string>
     <string name="detail_chat_app">Wechat</string>
     <string name="detail_chat_hint">IM</string>
-
+    <string name="mark_phone_number">Метка</string>
+    <string name="mark_phone_number_already">Отмечено</string>
+    <string name="cancel_mark_phone_number">Отменить метку</string>
+    <string name="mark_fraud">Мошенник</string>
+    <string name="mark_agent">Агент</string>
+    <string name="mark_sell">Продавец</string>
+    <string name="mark_harass">Надоедливый</string>
+    <string name="mark_express">Курьер</string>
+    <string name="mark_takeout">Не отвечать</string>
+    <string name="mark_custom">Пользовательский</string>
+    <string name="more_string">+%1$s</string>
     <string name="copy_email">Копировать адрес эл.почты</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="done">Готово</string>
@@ -1394,6 +1404,7 @@
     <string name="pref_summary_notify_enable">Уведомление и проверка кода подтверждения для входа</string>
     <string name="pref_title_notify_enable">Отображаемая информация</string>
     <string name="menu_prompt_quick_position">Фамилия</string>
+    <string name="page">Страница %d:</string>
     <string name="play_as_slideshow">Воспроизведение MMS как слайд-шоу</string>
     <string name="copy_to_phone">Успешно скопировано</string>
     <string name="callto">Вызов:</string>
@@ -1406,6 +1417,8 @@
     <string name="progress_mms_title">Передача MMS в процессе</string>
     <string name="progress_mms">Сообщение: передача MMS...</string>
     <string name="progress_mms_text ">Нажмите для повтора</string>
+    <string name="pref_title_mms_enable_to_send_delivery_reports">Отправка отчета о доставке</string>
+    <string name="pref_summary_mms_enable_to_send_delivery_reports">Отправлять отчет о доставке по каждому полученному сообщению</string>
     <string name="menu_print">Печать</string>
     <string name="printContact">Распечатать контакт через</string>
     <string name="no_way_to_print">Нет приложений для печати.</string>
@@ -1489,8 +1502,6 @@
     <string name="add">Добавить</string>
     <string name="more_recipients">получатель(и)</string>
     <string name="Insert_sdcard">Установите SD-карту</string>
-    <string name="pref_title_mms_enable_to_send_delivery_reports">Отправка отчета о доставке</string>
-    <string name="pref_summary_mms_enable_to_send_delivery_reports">Отправлять отчет о доставке по каждому полученному сообщению</string>
     <string name="service_center_label">"Центр службы: "</string>
     <string name="cu_subject">Lemei Subject</string>
     <string name="pref_title_mms_creation_mode">Режим создания</string>

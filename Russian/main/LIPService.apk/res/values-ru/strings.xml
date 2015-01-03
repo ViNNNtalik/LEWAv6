@@ -4,9 +4,18 @@
     <string name="app_name">LIP-сервис</string>
 
     <string name="download">Загрузка</string>
-    <string name="notification_update_all">Доступно обновление файлов!</string>
-    <string name="notification_update_game">Доступно обновление игр!</string>
-    <string name="notification_have_new_version">Получить новую версию</string>
+    <string name="notification_have_update">Можно обновить!</string>
+    <string name="notification_update_all">Приложения</string>
+    <string name="notification_update_game">Игры</string>
+    <string name="notification_etc">далее</string>
+    <string name="notification_have_new_version">Есть новая версия</string>
+    <string name="no_network">Не удается подключиться к сети</string>
+    <string name="in_the_mobile_network_environment">Используется передача данных, возможно потребление трафика. Продолжить?</string>
+    <string name="download_prompt">Разрешение загрузки</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="install">Установка</string>
+    <string name="download_now">Загрузить сейчас</string>
 
 
 
