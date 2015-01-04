@@ -1635,7 +1635,6 @@
     <string name="confirm_download_message">подтвердить загрузку сообщения</string>
     <string name="invalid_contact_message">Контакт не существует</string>
     <string name="by_card">По:</string>
-    <string name="page">Страница %d:</string>
     <string name="space_not_enough">Недостаточно свободного места для видео</string>
     <string name="storage_dialog_mms_size">"Размер MMS: "</string>
     <string name="error_add_attachment">Неизвестная ошибка, невозможно добавить %1$s в сообщение</string>
