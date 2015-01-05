@@ -1541,8 +1541,8 @@
     <string name="unknown">Неизвестно</string>
     <string name="sort_order_alpha">Сортировать по имени</string>
     <string name="sort_order_size">Сортировать по размеру</string>
-    <string name="show_running_services">Показать активные службы</string>
-    <string name="show_background_processes">Показать кэшируемые процессы</string>
+    <string name="show_running_services">Запущено</string>
+    <string name="show_background_processes">В кэше</string>
     <string name="reset_app_preferences">Сбросить настройки</string>
     <string name="reset_app_preferences_title">Сбросить настройки?</string>
     <string name="reset_app_preferences_desc">"Будут сброшены следующие настройки:
@@ -1558,8 +1558,8 @@
     <string name="filter">Фильтр</string>
     <string name="filter_dlg_title">Выберите параметры фильтра</string>
     <string name="filter_apps_all">Все</string>
-    <string name="filter_apps_third_party">Установлено</string>
-    <string name="filter_apps_running">Работающие</string>
+    <string name="filter_apps_third_party">В системе</string>
+    <string name="filter_apps_running">Работает</string>
     <string name="filter_apps_onsdcard">На SD-карте</string>
     <string name="disabled">Отключено</string>
     <string name="not_installed">Не установлено</string>
@@ -2332,8 +2332,8 @@
     <string name="buttonlight_title">Подсветка клавиш</string>
     <string name="buttonlight_msg">Подсветка клавиш при касании экрана</string>
 
-    <string name="common_settings_title">ОБЩИЕ</string>
-    <string name="settings_title">ВСЕ НАСТРОЙКИ</string>
+    <string name="common_settings_title">КРАТКО</string>
+    <string name="settings_title">ПОДРОБНО</string>
     <string name="custom_frequent_foot_btn_text">Изменить....</string>
     <string name="ringvolume_vibrate_title">Мелодии и вибрация</string>
     <string name="audio_sound_title">Звук</string>
@@ -2364,7 +2364,7 @@
     <string name="gemini_dualsim_switch_title">Сдвинуть набор/отправка SMS</string>
     <string name="gemini_dualsim_switch_summary">Смещение ползунка влево позволит совершить вызов/отправить SMS</string>
     <string name="silent_mode_title">Тихий режим</string>
-    <string name="device_lewa_version">"Версия LEWAv5： "</string>
+    <string name="device_lewa_version">"Версия LEWA： "</string>
     <string name="device_cpu">"Процессор： "</string>
     <string name="device_memory">"Память "</string>
     <string name="device_system_memory">"Оперативная память： "</string>
@@ -2377,7 +2377,7 @@
     <string name="lewa_firmware_version">"Версия Android： "</string>
     <string name="lewa_model_number">"Модель： "</string>
     <string name="unlock_set_unlock_none_title_lewa">Локскрин Lewa</string>
-    <string name="debug_log">Для опытных пользователей</string>
+    <string name="debug_log">Отправлять отчеты</string>
     <string name="upload_debug_log_title">Опытный пользователь</string>
     <string name="upload_debug_log_summary">Помочь нам улучшить продукт с помощью отсылки информации об использовании</string>
     <string name="root_title">Менеджер безопасности</string>
@@ -2496,7 +2496,7 @@
     <string name="hifi_on_title">Как включить Hi-Fi?</string>
     <string name="hifi_on_msg">Когда вставлены наушники, зайдите в Настройки/Звук и включите там опцию Hi-Fi</string>
     <string name="hifi_quicksetting_msg">Перед тем как насладиться Hi-Fi-звуком вставьте наушники!</string>
-    <string name="uep_detail">Программа опытных пользователей нацелена на улучшение опыта пользования мобильной системой и предназначена для разработчиков, чятобы они смогли выпускать принципипиально новые продукты и улучшить качество уще выпущенных сервисов</string>
+    <string name="uep_detail">Программа опытных пользователей нацелена на улучшение опыта пользования мобильной системой и предназначена для разработчиков, чтобы они смогли выпускать принципиально новые продукты и улучшить качество уже выпущенных сервисов</string>
     <string name="participate_uep">Участие в программе</string>
     <string name="uep_title">Опытный пользователь</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
@@ -2716,6 +2716,17 @@
     <string name="apply_color_scheme_message">Применение цветовой схемы...</string>
     <string name="apply_color_scheme_success">Успешно применено %s</string>
     <string name="apply_color_scheme_failed">Не удалось применить схему</string>
+    <string name="lw_text_big_launcher">Режим большого лаунчера</string>
+    <string name="lw_text_bid_launcher_description">Режим большого лаунчера адаптирует слои, большие иконки и шрифты для более удобного восприятия. Для применения изменений необходима перезагрузка</string>
+    <string name="lw_dialog_reboot_title">Перезагрузка</string>
+    <string name="lw_dialog_reboot_content">Вы должны перезагрузить устройство, для включения режима большого лаунчера. Перезагрузить?</string>
+    <string name="lw_dialog_reboot_confirm">Перезагрузить</string>
+    <string name="lw_dialog_reboot_cancel">Отмена</string>
+    <string name="lock_screen_message">Отображать сообщения</string>
+    <string name="lock_screen_message_summary">Отображение на локскрине сообщений, информации о звонках</string>
+    <string name="bird_hand_title">Режим под правую или левую руку</string>
+    <string name="lewa_applock_title">Блокировка приложений</string>
+    <string name="lewa_applock_summary">Необходимо задать пароль перед блокировкой</string>
     <string name="locale_language_zh_cn">Китайский (упрощ.)</string>
     <string name="locale_language_zh_tw">Китайский</string>
     <string name="locale_language_en">Английский</string>
@@ -2733,9 +2744,9 @@
     <string name="invalid_data_size">Неправильные данные</string>
     <string name="wizard_setup_complete">Настройка завершена</string>
     <string name="wizard_begin_use">Запуск</string>
-    <string name="wizard_location_setup">Доступ к местоположению</string>
+    <string name="wizard_location_setup">Включить GPS</string>
     <string name="wizard_next_step">Далее</string>
-    <string name="wizard_skip">Пропуск</string>
+    <string name="wizard_skip">Далее</string>
     <string name="day">1 день</string>
     <string name="days">" %s дн."</string>
     <string name="hour">1 час</string>
