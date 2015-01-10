@@ -49,17 +49,11 @@
         <item>5|6</item>
     </string-array>
     <string-array name="icon_size">
-        <item>@string/extra_tiny_icon_size</item>
-        <item>@string/tiny_icon_size</item>
         <item>@string/small_icon_size</item>
         <item>@string/normal_icon_size</item>
-        <item>@string/big_icon_size</item>
     </string-array>
     <string-array name="icon_size_value">
-        <item>0.6f</item>
-        <item>0.7f</item>
-        <item>0.8f</item>
-        <item>0.9f</item>
+        <item>0.85f</item>
         <item>1.0f</item>
     </string-array>
 
@@ -90,5 +84,16 @@
         <item>Пазлы</item>
         <item>Настольные</item>
     </string-array>
+
+
+
+
+
+
+
+
+
+
+
     <array name="wallpapers" />
 </resources>

@@ -51,12 +51,37 @@
     <string name="lockpassword_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
+    <string name="lockpattern_change_lock_pattern_label">Изменить ключ</string>
+    <string name="lockpattern_change_lock_pin_label">Изменить PIN-код разблокировки</string>
+    <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
+
+    <string name="lockpattern_need_to_unlock_wrong">Повторить:</string>
+
+    <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
+    <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\"</string>
+    <string name="lockpattern_recording_inprogress">По завершении отпустите палец</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум %d). Повторите попытку:</string>
+    <string name="lockpattern_pattern_entered_header">Графический ключ разблокировки записан!</string>
+    <string name="lockpattern_need_to_confirm">Для подтверждения начертите графический ключ повторно:</string>
+    <string name="lockpattern_pattern_confirmed_header">Новый графический ключ разблокировки:</string>
+    <string name="lockpattern_confirm_button_text">Подтвердить</string>
+    <string name="lockpattern_restart_button_text">Воспроизвести повторно</string>
+    <string name="lockpattern_retry_button_text">Повторить</string>
+    <string name="lockpattern_continue_button_text">Продолжить</string>
+    <string name="lockpattern_settings_title">Графический ключ разблокировки</string>
+    <string name="lockpattern_settings_enable_title">Запрашивать ключ</string>
+    <string name="lockpattern_settings_enable_summary">Использовать графический ключ для защиты телефона</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Показывать графический ключ</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибрировать при касании</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Блокировка клавишей питания</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Установить ключ</string>
+    <string name="lockpattern_settings_change_lock_pattern">Изменить ключ</string>
+    <string name="lockpattern_settings_help_how_to_record">Как начертить графический ключ разблокировки</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много неудачных попыток!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d с.</string>
     <string name="lock_setup">Настройка завершена</string>
     <string name="app_name">Lewa Блок</string>
     <string name="cancel">Повтор</string>
-
-    <string name="lockpattern_need_to_unlock_wrong">Повторить</string>
-
     <string name="unlock_set_unlock_screen_title">Использование локскрина</string>
     <string name="no_applications">Нет приложений</string>
     <string name="settings_safetylegal_activity_loading">Загрузка...</string>
@@ -80,4 +105,18 @@
     <string name="please_input_pwd">Ввод пароля</string>
     <string name="input_again">Забыть</string>
     <string name="user_delete_button">Удалить</string>
+    <string name="app_lock_settings">Настройки</string>
+    <string name="lewa_applock_summary">Открытие заблокированного приложения требует пароля и выключение экрана блокирует приложение заново</string>
+    <string name="lewa_applock_title">Блокировка приложений</string>
+    <string name="applock_password_title">Изменение пароля</string>
+    <string name="app_lock_header">Залокированные приложения</string>
+    <string name="lewa_app_locked">Заблокировано</string>
+    <string name="lewa_app_unlocked">Разблокировано</string>
+    <string name="icon_loading">Загрузка</string>
+    <string name="lewa_pim_name">Контакты</string>
+    <string name="lewa_camera_name">Камера и Галерея</string>
+    <string name="lewa_pattern_visible_title">Сделать графический ключ видимым</string>
+    <string name="lewa_pattern_visible_summary">Сделать графический ключ видимым при блокировке</string>
+    <string name="lewa_pattern_feedback_title">Вибрация при касании</string>
+    <string name="lewa_pattern_feedback_summary">Вибрация при блокировке</string>
 </resources>

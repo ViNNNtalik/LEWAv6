@@ -63,6 +63,17 @@
 
     <string name="safe_media_volume_warning">"Поднять громкость выше безопасного уровня?
 Прослушивание музыки на максимальном уровне может нанести вред слуху"</string>
+
+
+
+
+
+
+    <string name="force_close">Закрыть окно</string>
+    <string name="report">Отчет в Lewa</string>
+    <string name="report_success">Отчет отправлен. Спасибо за Ваш отзыв!</string>
+    <string name="report_fail">Ошибка сети</string>
+    <string name="report_network_error">Нет сети</string>
     <string name="the_spring_festival">Китайский Новый год</string>
     <string name="lantern_festival">Фестиваль фонарей</string>
     <string name="the_dragon_boat_festival">Праздник лодок-драконов</string>

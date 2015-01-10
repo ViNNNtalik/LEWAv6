@@ -52,7 +52,7 @@
     <string name="pref_adjust_settings">Автоматическая синхронизация</string>
     <string name="pref_adjust_regularly">Период измерения</string>
     <string name="background_warning_title">Фоновый трафик</string>
-    <string name="background_warning_content">"Передано>1 Mб, 
+    <string name="background_warning_content">"Передано>5 Mб, 
 проверьте приложения"</string>
     <string name="background_warning_close_content">Если выключить предупреждение о фоновом трафике, то Вы не будете знать об этом. Это может привести к неконтролируемому расходу трафика по 2G/3G. Вы точно хотите выключить?</string>
     <string name="pref_data_warning">Настройка уровня предупреждения</string>
@@ -64,7 +64,7 @@
     <string name="pref_background_antitheft">Контроль трафика</string>
     <string name="pref_background_antitheft_summary">Автоматически выключать трафик по 2G/3G с 01:00 до 07:00</string>
     <string name="pref_background_warning">Фоновое предупреждение</string>
-    <string name="pref_background_warning_summary">Предупреждать, если фоновый трафик по 2G/3G превышает 1 Мб</string>
+    <string name="pref_background_warning_summary">Предупреждать, если фоновый трафик по 2G/3G превышает 5 Мб</string>
     <string name="pref_clear_history">Очистить историю</string>
     <string name="pref_clear_history_confirm">"Вы уверены, что хотите перезагрузить устройство для очистки истории использования трафика?"</string>
     <string name="reboot">Перезагрузка</string>

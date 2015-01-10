@@ -8,8 +8,8 @@
     <string name="pick_wallpaper">Обои</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="widgets_tab_label">Виджеты</string>
-    <string name="widget_dims_format">%1$d x %2$d</string>
-    <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
+
+
     <string name="rename_folder_title">Переименование</string>
     <string name="group_applications">Приложения</string>
     <string name="group_shortcuts">Ярлыки</string>
@@ -162,7 +162,4 @@
     <string name="wallpaper_local">Локально</string>
     <string name="fun_item_arrange">Размещение</string>
     <string name="start_download">Старт загрузки</string>
-    <string name="extra_tiny_icon_size">Крошечный</string>
-    <string name="tiny_icon_size">Мелкий</string>
-    <string name="big_icon_size">Большой</string>
 </resources>

@@ -1419,6 +1419,7 @@
     <string name="progress_mms_text ">Нажмите для повтора</string>
     <string name="pref_title_mms_enable_to_send_delivery_reports">Отправка отчета о доставке</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Отправлять отчет о доставке по каждому полученному сообщению</string>
+    <string name="multi_waiting_msg">Ожидание...</string>
     <string name="menu_print">Печать</string>
     <string name="printContact">Распечатать контакт через</string>
     <string name="no_way_to_print">Нет приложений для печати.</string>

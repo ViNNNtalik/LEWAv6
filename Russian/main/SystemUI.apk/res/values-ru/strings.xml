@@ -79,8 +79,8 @@
     <string name="status_bar_settings_mute_label">ВЫКЛ.</string>
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="status_bar_settings_notifications">Уведомления</string>
-    <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_network_name_separator">|</string>
+
+
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
@@ -165,8 +165,8 @@
     <string name="notifications_off_title">Уведомления отключены</string>
     <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
-    <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
-    <string name="status_bar_settings_battery_meter_min_format">%d</string>
+
+
     <string name="guid">Ясно</string>
     <string name="otg_to_filemanager">Нажмите для запуска файлового менеджера</string>
     <string name="otg_connect">USB-хранилище подключено</string>
