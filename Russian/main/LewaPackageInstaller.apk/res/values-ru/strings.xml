@@ -10,11 +10,11 @@
     <string name="installing">Установка...</string>
     <string name="install_done">Приложение установлено</string>
     <string name="install_confirm_question">Установить это приложение?</string>
-    <string name="install_confirm_question_no_perms">Вы хотите установить это приложение? Оно не требует специальных разрешений</string>
-    <string name="install_confirm_question_update">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Обновленное приложение получит доступ к:</string>
-    <string name="install_confirm_question_update_system">Вы хотите установить обновление встроенного приложения? Ваши персональные данные сохранятся. Обновленное приложение получит доступ к:</string>
-    <string name="install_confirm_question_update_no_perms">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Оно не требует специальных разрешений</string>
-    <string name="install_confirm_question_update_system_no_perms">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Оно не требует специальных разрешений</string>
+    <string name="install_confirm_question_no_perms">Вы хотите установить это приложение?</string>
+    <string name="install_confirm_question_update">Вы хотите установить это обновление установленного приложения?</string>
+    <string name="install_confirm_question_update_system">Вы хотите установить обновление встроенного приложения?</string>
+    <string name="install_confirm_question_update_no_perms">Вы хотите установить это обновление установленного приложения?</string>
+    <string name="install_confirm_question_update_system_no_perms">Вы хотите установить это обновление установленного приложения?</string>
     <string name="install_failed">Приложение не установлено</string>
     <string name="install_failed_invalid_apk">Файл поврежден</string>
     <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись</string>
@@ -26,9 +26,11 @@
     <string name="install_failed_msg">Установить приложение %1$s не удалось</string>
     <string name="launch">Открыть</string>
     <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">Из-за соображений безопасности на Вашем устройстве заблокирована установка приложений, полученных не из Google Play Маркета</string>
+    <string name="unknown_apps_dlg_text">Для безопасности на Вашем устройстве заблокирована установка приложений, 
+
+полученных не из Google Play Маркета</string>
     <string name="ok">ОК</string>
-    <string name="settings">Настройки</string>
+    <string name="settings">Открыть</string>
     <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
     <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
@@ -64,6 +66,7 @@
     <string name="allPerms">Все</string>
     <string name="privacyPerms">Конфиденциальность</string>
     <string name="devicePerms">Доступ к устройству</string>
+    <string name="securityPerms">Безопасность</string>
     <string name="no_new_perms">Это обновление не требует новых разрешений</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВОЕ: </font></string>
     <string name="perms_description_app">Provided by %1$s.</string>

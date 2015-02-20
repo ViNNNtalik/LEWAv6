@@ -198,4 +198,11 @@
     <string name="dialog_sex_secret">Секрет</string>
     <string name="dialog_age_title">Задать день рождения</string>
     <string name="dialog_age_secret_label">"Не показывать мой возраст"</string>
+    <string name="lewa_account_offline_title">Нет входа в аккаунт</string>
+    <string name="lewa_account_offline_msg">Нет входа в аккаунт, войдите в него</string>
+    <string name="lewa_account_offline_login">Вход в аккаунт</string>
+    <string name="lewa_account_offline_cancel">Отмена</string>
+    <string name="remote_email_error">Неверный адрес эл. почты</string>
+    <string name="remote_email_verified">Адрес эл. почты не подтвержден</string>
+    <string name="remote_unverified_email">Адрес эл. почты не подтвержден, зайдите в свою почту и завершите проверку</string>
 </resources>

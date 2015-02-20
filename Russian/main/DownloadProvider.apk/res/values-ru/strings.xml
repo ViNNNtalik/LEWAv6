@@ -47,4 +47,6 @@
     <string name="notification_info_wait_for_wlan">ожидание Wi-Fi</string>
     <string name="notification_info_peding">ожидание</string>
     <string name="notification_info_fail">ошибка</string>	
+    <string name="notification_info_sdcard_insufficient_space_error">Недостаточно места на SD-карте</string>
+    <string name="notification_info_insufficient_space_error">Недостаточно места на внутреннем хранилище</string>
 </resources>

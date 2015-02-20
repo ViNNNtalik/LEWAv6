@@ -712,7 +712,7 @@
     <string name="block_voice_incoming_call">Непосредственная блокировка входящих голосовых вызовов</string>
     <string name="block_video_incoming_call">Непосредственная блокировка входящих видеовызовов</string>
     <string name="menu_manually_refresh">Обновить</string>
-    <string name="add_to_blacklist">Добавить</string>
+    <string name="add_to_blacklist">В черный список</string>
     <string name="clear_from_blacklist">Удалить из черного списка</string>
     <string name="add_to_autorecord_list">Добавить в автозапись</string>
     <string name="clear_from_autorecord_list">Отмена автозаписи</string>
@@ -962,7 +962,19 @@
     <string name="mark_express">Курьер</string>
     <string name="mark_takeout">Не отвечать</string>
     <string name="mark_custom">Пользовательский</string>
-    <string name="more_string">+%1$s</string>
+    <string name="time_0_3">AM</string>
+    <string name="time_4_6">AM</string>
+    <string name="time_7_9">AM</string>
+    <string name="time_10_11">AM</string>
+    <string name="time_12">PM</string>
+    <string name="time_13_16">PM</string>
+    <string name="time_17_18">PM</string>
+    <string name="time_19_23">PM</string>
+    <string name="sim_num_no">Отмена</string>
+    <string name="sim_num_ok">ОК</string>
+    <string name="sim_num_title">Выберите число</string>
+    <string name="group_name_exceed_limit">Имя группы превысило размер</string>
+
     <string name="copy_email">Копировать адрес эл.почты</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="done">Готово</string>

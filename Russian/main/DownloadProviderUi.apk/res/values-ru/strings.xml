@@ -112,4 +112,8 @@
     <string name="status_pause_for_network">Ожидание сети</string>
     <string name="status_pause_for_SDcard">Ожидание SD-карты</string>
     <string name="SDcard_is_not_available">Нет SD-карты</string>
+    <string name="info_sdcard_insufficient_space">Недостаточно места на SD-карте</string>
+    <string name="info_insufficient_space">Недостаточно места на внутреннем хранилище</string>
+    <string name="toast_sdcard_insufficient_space">Недостаточно места на SD-карте для завершения загрузки</string>
+    <string name="toast_insufficient_space">Недостаточно места на внутреннем хранилище для завершения загрузки</string>
 </resources>
