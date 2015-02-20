@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">Отзывы</string>
+
+   <string name="action_settings">Настройки</string>
+   <string name="because_of_concerns_about">Обеспокоенность по поводу</string>
+   <string name="so_listen">Слушайте</string>
+   <string name="thank_for_your_feedback">Спасибо за Ваш отзыв! Это поможет нам сделать Lewa лучше</string>
+   <string name="system_app">Система</string>
+   <string name="non_system_app">Пользовательские</string>
+   <string name="serach_app">Введите название</string>
+   <string name="loading_application_information">Загрузка информации о приложении. Ожидайте...</string>
+   <string name="loading_question">Загрузка FAQ. Ожидайте...</string>
+   <string name="frequently_asked_questions"> FAQ</string>
+   <string name="commit">Отправить</string>
+   <string name="add_screenshots">"Добавить скриншот (не более 5): "</string>
+   <string name="enter_problem">Если Вы не нашли ответ в FAQ, введите Ваш вопрос напрямую (на китайском или английском)</string>
+   <string name="abandon_this_operation">Отмена действия</string>
+   <string name="unsave">Действие не сохраниться. Точно отменить?</string>
+   <string name="cancle">Отмена</string>
+   <string name="confirm_abandonment">Подтверить отказ</string>
+   <string name="committing">Отправление...</string>
+   <string name="text_score">Используйте системные данные</string>
+   <string name="text_problem">Опишите Вашу проблему (на китайском или английском)</string>
+   <string name="loading">Загрузка. Ожидайте...</string>
+   <string name="connect_error">Ошибка соединения</string>
+   <string name="ok">ОК</string>
+   <string name="uploaded_successfully">Ваш отзыв успешно отправлен. Большое спасибо!</string>
+   <string name="error">Ошибка</string>
+   <string name="error_args">Ошибка параметров</string>
+   <string name="error_server">Ошбика сервераr</string>
+   <string name="error_upload_type">Выгрузка данного типа файлов не разрешена</string>
+   <string name="error_upload_size">Превышен размер</string>
+   <string name="error_sign">Ошибка подписи</string>
+   <string name="error_repeat">Отправить заново</string>
+   <string name="error_unknow">Неизвестная ошибка</string>
+   <string name="label">Отзывы пользователей</string>
+   <string name="null_commit">Введите Ваш отзыв или добавьте скриншоты</string>
+   <string name="time_out">Таймаут соединения</string>
+   <string name="network_setting">Настройки сети</string>
+   <string name="network_refresh">Обновить</string>
+   <string name="network_text">Ошибка соединения</string>
+</resources>
