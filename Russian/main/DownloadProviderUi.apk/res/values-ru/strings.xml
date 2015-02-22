@@ -69,8 +69,8 @@
     <string name="menu_resume_all">Возобновить все</string>
     <string name="menu_clear_all">Очистить все</string>
     <string name="message_open_app_fail">Ошибка открытия приложения</string>
-    <string name="network_choice">выберите сеть</string>
-    <string name="only_wifi_title">только Wi-Fi</string>
+    <string name="network_choice">Выберите сеть</string>
+    <string name="only_wifi_title">Только Wi-Fi</string>
     <string name="only_wifi_summary">Сохранить</string>
     <string name="download_remind_title">Советы по 2G/3G</string>
     <string name="close_mobile_dialog_title">Советы</string>
@@ -98,9 +98,9 @@
     <string name="delete_dialog_content2">удалить файл с диска</string>
     <string name="delete_dialog_positive">OK</string>
     <string name="delete_dialog_negative">Отмена</string>
-    <string name="status_pending">ожидание</string>
-    <string name="status_pause">пауза</string>
-    <string name="delete_all_dialog_title">очистить историю</string>
+    <string name="status_pending">Ожидание</string>
+    <string name="status_pause">Пауза</string>
+    <string name="delete_all_dialog_title">Очистить историю</string>
     <string name="delete_all_dialog_content">Вы уверены, что хотите очистить всю историю?</string>
     <string name="delete_all_dialog_positive">OK</string>
     <string name="delete_all_dialog_negative">Отмена</string>

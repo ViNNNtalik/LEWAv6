@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_data_items">
+        <item>SMS</item>
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="group_item">
+        <item>Система</item>
+        <item>Пользов.</item>
+    </string-array>
+    <string-array name="group_item_0">
+        <item>Система</item>
+    </string-array>
+    <string-array name="group_item_1">
+        <item>Пользов.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Март</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Авг</item>
+        <item>Сент</item>
+        <item>Окт</item>
+        <item>Нояб</item>
+        <item>Дек</item>
+    </string-array>
+</resources>
