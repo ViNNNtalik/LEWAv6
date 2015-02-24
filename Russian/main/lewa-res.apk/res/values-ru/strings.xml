@@ -83,6 +83,11 @@
     <string name="the_laba_rice_porridge_festival">Лаба</string>
     <string name="new_years_day">Новый год</string>
     <string name="valentines_day">День святого Валентина</string>
+    <string name="force_close">закрыть</string>
+    <string name="report">отчет для lewa</string>
+    <string name="report_success">Отчет отправлен, спасибо за ваши отзывы</string>
+    <string name="report_fail">Ошибка отчета</string>
+    <string name="report_network_error">Нет сети</string>
     <string name="international_womens_day">Женский день</string>
     <string name="arbor_day">День древонасаждения</string>
     <string name="fools_day">День Дурака</string>
