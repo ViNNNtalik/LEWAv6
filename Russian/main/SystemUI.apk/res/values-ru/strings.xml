@@ -284,7 +284,7 @@
     <string name="widget_data_pack_warning">Задайте тарифный план</string>
     <string name="widget_exceed">Превышено</string>
     <string name="not_set">Не задано</string>
-
+    <string name="zero">0Б</string>
     <string name="widget_remain">Осталось</string>
     <string name="widget_today_usage">Сегодня</string>
     <string name="netusage">Трафик</string>
