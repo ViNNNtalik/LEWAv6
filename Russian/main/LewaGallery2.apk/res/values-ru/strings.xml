@@ -399,7 +399,7 @@
     <string name="pref_settings_flit_title">Фильтр</string>
 
     <string name="pref_settings_video_title">Настройки</string>
-    <string name="pref_settings_weather_title">Печать</string>
+    <string name="pref_settings_weather_title">Погода</string>
     <string name="pref_settings_weather_none_data">Нет данных</string>
     <string name="pref_settings_close">Закрыть</string>
     <string name="none_weather_data_tip">Нет данных о погоде</string>
