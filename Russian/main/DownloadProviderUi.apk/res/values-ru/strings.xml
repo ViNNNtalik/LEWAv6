@@ -34,7 +34,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="selected_count">Выбран %1$d</string>
     <string name="download_share_dialog">Способ отправки</string>
-    <string name="download_percent">%d%%</string>
+
     <string name="dialog_title">Загрузка</string>
     <string name="paused_dialog_msg">Вы хотите приостановить загрузку?</string>
     <string name="resume_dialog_msg">Вы хотите возобновить загрузку?</string>
@@ -48,7 +48,7 @@
     <string name="password">Пароль</string>
     <string name="action">Вход</string>
     <string name="cancel">Отмена</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="confirm_oma_download_title">Подтвердить загрузку?</string>
     <string name="oma_download_name">Имя:</string>
     <string name="oma_download_vendor">Поставщик:</string>
@@ -77,7 +77,7 @@
     <string name="close_mobile_dialog_content">"Если закрыть напоминания, не будут отображаться подсказки во время скачивания по 2G/3G, что может привести к дополнительным расходам.
 
 Вы уверены, что хотите отключить напоминания при загрузке по 2G/3G?"</string>
-    <string name="close_mobile_dialog_positive">OK</string>
+    <string name="close_mobile_dialog_positive">ОК</string>
     <string name="close_mobile_dialog_negative">Отмена</string>
     <string name="download_dialog_title">Советы по загрузке</string>
     <string name="mobile_dialog_content_prefix">"Вы уверены, что хотите загружать по 2G/3G:
@@ -89,7 +89,7 @@
     <string name="wifi_dialog_content">"У вас включена загрузка только через Wi-Fi, если Вы хотите начать загрузку, то Вам нужно отключить скачивание только через Wi-Fi.
 
 Вы уверены, что хотите выключить загрузку только через Wi-Fi?"</string>
-    <string name="wifi_dialog_positive">OK</string>
+    <string name="wifi_dialog_positive">ОК</string>
     <string name="wifi_dialog_negative">Отмена</string>
     <string name="delete_dialog_title">Удаление</string>
     <string name="delete_dialog_content">Вы уверены, что хотите удалить %1$d загрузки?</string>
@@ -102,7 +102,7 @@
     <string name="status_pause">Пауза</string>
     <string name="delete_all_dialog_title">Очистить историю</string>
     <string name="delete_all_dialog_content">Вы уверены, что хотите очистить всю историю?</string>
-    <string name="delete_all_dialog_positive">OK</string>
+    <string name="delete_all_dialog_positive">ОК</string>
     <string name="delete_all_dialog_negative">Отмена</string>
     <string name="net_work_disconnect">Нет подключения к сети!</string>
     <string name="today">Сегодня</string>
@@ -116,4 +116,5 @@
     <string name="info_insufficient_space">Недостаточно места на внутреннем хранилище</string>
     <string name="toast_sdcard_insufficient_space">Недостаточно места на SD-карте для завершения загрузки</string>
     <string name="toast_insufficient_space">Недостаточно места на внутреннем хранилище для завершения загрузки</string>
+    <string name="theme_is_applied">Тема используется</string>
 </resources>

@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string name="confirm_title">Подтверждение</string>
+   <string name="ensure">ОК</string>
+   <string name="cancel">Отмена</string>
+   <string name="content_description_icon">Иконка</string>
+   <string name="refresh">Обновить</string>
+   <string name="processing">Обработка</string>
+   <string name="download">Загрузка</string>
+   <string name="download_fail">Загрузка пакета установки не удалась</string>
+   <string name="cancel_install_msp">Отмена установки приложения</string>
+   <string name="cancel_install_alipay">Отмена установки приложения</string>
+   <string name="redo">Повтор</string>
+   <string name="install_msp">Требуемое приложение пока не установлено</string>
+   <string name="install_alipay">Требуемое приложение пока не установлено</string>
+   <string name="yulore_superyellowpage_intent_not_found">Операцич не удалась​</string>
+   <string name="yulore_superyellowpage_enter_code">Код</string>
+   <string name="yulore_superyellowpage_enter_tel">Введите номер телефона</string>
+   <string name="yulore_superyellowpage_menu_tip">Подсказка</string>
+   <string name="yulore_superyellowpage_menu_confirm">ОК</string>
+   <string name="yulore_superyellowpage_menu_cancel">Отмена</string>
+   <string name="yulore_superyellowpage_app_name">Либ</string>
+   <string name="yulore_superyellowpage_search_tips">Нажмите для поиска</string>
+   <string name="yulore_superyellowpage_clipper_service">Быстрые услуги</string>
+   <string name="yulore_superyellowpage_common_number">Часто используемые номера</string>
+   <string name="yulore_superyellowpage_handy_service">Удобные услуги</string>
+   <string name="yulore_superyellowpage_loading_tips">Загрузка...</string>
+   <string name="yulore_superyellowpage_no_category_data">Нет подключения в сети</string>
+   <string name="yulore_superyellowpage_sd_no_available">Нет SD-карты</string>
+   <string name="yulore_superyellowpage_load_more_data">Еще данные</string>
+
+   <string name="yulore_superyellowpage_request_server_timeout">Таймаут запроса</string>
+   <string name="yulore_superyellowpage_request_server_error">Ошибка доступа к серверу</string>
+   <string name="yulore_superyellowpage_network_not_available">Нет подключения к сети</string>
+   <string name="yulore_superyellowpage_detail_network_not_available">Ошибка загрузки данных</string>
+   <string name="yulore_superyellowpage_loading_data">Загрузка ...</string>
+   <string name="yulore_superyellowpage_offline_et_hint">Название города</string>
+   <string name="yulore_superyellowpage_menu_dial">Выбените телефон</string>
+   <string name="yulore_superyellowpage_detail_more_title">Детали</string>
+   <string name="yulore_superyellowpage_register_title">Проверка регистрации</string>
+   <string name="yulore_superyellowpage_detail_service">Быстрые услуги</string>
+   <string name="yulore_superyellowpage_detail_comment">Скидка</string>
+   <string name="yulore_superyellowpage_detail_more">Еще</string>
+   <string name="yulore_superyellowpage_search_item_head_subTitle">Проверка статуса телефона</string>
+   <string name="yulore_superyellowpage_search_item_head_website">Официальный сайт</string>
+   <string name="yulore_superyellowpage_detail_text_comment">Комментарии</string>
+   <string name="yulore_superyellowpage_loading_data_failed">Загрузка данных не удалась</string>
+   <string name="yulore_superyellowpage_detail_text_favorite">Избранное</string>
+   <string name="yulore_superyellowpage_mark_title">Отметить как:</string>
+   <string name="yulore_superyellowpage_add_contact">Добавить контакты</string>
+   <string name="yulore_superyellowpage_add_hint">Например: Подозревается мошенничество</string>
+   <string name="yulore_superyellowpage_add_sign_tips">Отметьте для удобства</string>
+   <string name="yulore_superyellowpage_title_personal">Личное</string>
+   <string name="yulore_superyellowpage_title_regist">Проверка регистрации</string>
+   <string name="yulore_superyellowpage_title_favorite">Избранное</string>
+   <string name="yulore_superyellowpage_title_history">История</string>
+   <string name="yulore_superyellowpage_title_city">Выбор города</string>
+   <string name="yulore_superyellowpage_city">Город</string>
+   <string name="yulore_superyellowpage_no_history_found">Нет истории</string>
+   <string name="yulore_superyellowpage_get_auth_code">Получить код</string>
+   <string name="yulore_superyellowpage_city_beijing">Пекин</string>
+   <string name="yulore_superyellowpage_call_log">Журнал вызовов</string>
+   <string name="yulore_superyellowpage_detail">Детали</string>
+   <string name="yulore_superyellowpage_clear_search_log">Очистить историю</string>
+   <string name="yulore_superyellowpage_close">Закрыть всеl</string>
+   <string name="yulore_superyellowpage_hotline">Горясая линияe</string>
+   <string name="yulore_superyellowpage_call_out_time">минута 13 секунд</string>
+   <string name="yulore_superyellowpage_the_bank_of_china">Банк Китая</string>
+   <string name="yulore_superyellowpage_text_yuan">юань</string>
+   <string name="yulore_superyellowpage_value_100"> 100 юаней</string>
+   <string name="yulore_superyellowpage_bad_network_state">Проблемы с сетью</string>
+   <string name="yulore_superyellowpage_locate_fail">Определение местоположения не удалось</string>
+   <string name="yulore_superyellowpage_crank_call">Навязчивый номер</string>
+
+   
+
+
+   <string name="yulore_superyellowpage_test_with_fragment">Фрагмен деталей!</string>
+   <string name="yulore_superyellowpage_clear">Очистить</string>
+   <string name="yulore_superyellowpage_order">Порядок</string>
+   <string name="yulore_superyellowpage_refresh">Обновить</string>
+   <string name="yulore_superyellowpage_detail_comment_label">Комментарии</string>
+   <string name="yulore_superyellowpage_detail_group_more">Раскрыть все</string>
+   <string name="yulore_superyellowpage_network_settings">Настройки сети</string>
+   <string name="yulore_superyellowpage_network_reload">Повторить</string>
+   <string name="yulore_superyellowpage_connect_fail">Ошибка сети</string>
+
 
 
     <string name="config_import_vcard_type">По умолчанию</string>
@@ -962,18 +1047,22 @@
     <string name="mark_express">Курьер</string>
     <string name="mark_takeout">Не отвечать</string>
     <string name="mark_custom">Пользовательский</string>
-    <string name="time_0_3">AM</string>
-    <string name="time_4_6">AM</string>
-    <string name="time_7_9">AM</string>
-    <string name="time_10_11">AM</string>
-    <string name="time_12">PM</string>
-    <string name="time_13_16">PM</string>
-    <string name="time_17_18">PM</string>
-    <string name="time_19_23">PM</string>
+
+
+
+
+
+
+
+
     <string name="sim_num_no">Отмена</string>
     <string name="sim_num_ok">ОК</string>
     <string name="sim_num_title">Выберите число</string>
     <string name="group_name_exceed_limit">Имя группы превысило размер</string>
+    <string name="query_sim_balance_title">Запрос</string>
+    <string name="query_sim_balance_content">Будет отправлено сообщение оператору для проверки баланса</string>
+    <string name="send_sim_balance_message">Отправка SMS для проверки баланса</string>
+    <string name="not_support_query_sim_balance">Опция не поддерживается SIM-картой</string>
 
     <string name="copy_email">Копировать адрес эл.почты</string>
     <string name="copy_number">Копировать номер телефона</string>
@@ -1006,7 +1095,6 @@
     <string name="undelivered_sms_dialog_body">Не удается отправить это сообщение.</string>
     <string name="delete_thread">Удалить цепочку</string>
     <string name="menu_forward">Переслать</string>
-    <string name="download">Загрузить</string>
     <string name="downloading">Загрузка...</string>
     <string name="inline_subject">&lt;Тема: %s></string>
     <string name="drm_protected_text">* Текст защищен средствами DRM *</string>

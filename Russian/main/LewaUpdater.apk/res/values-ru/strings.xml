@@ -139,17 +139,6 @@
     <string name="dlg_cancel_update_msg_not_finish">Предыдущая версия скачана неполностью. Отменить ее загрузку и начать скачивание более новой версии?</string>
     <string name="reboot_to_recovery">Перезагрузка в рекавери</string>
     <string name="reboot_to_recovery_msg">Для входа в рекавери необходимо перезагрузить устройство. Продолжить?</string>
-    <string name="share_version_info">Поделиться информацией о новой версии</string>
-    <string name="share_to_sina_weibo">Поделиться с Sina Weibo</string>
-    <string name="download_sina_weibo">Sina Weibo (скачивание)</string>
-    <string name="share_to_tencent_weibo">Поделиться с Tencent Weibo</string>
-    <string name="download_tencent_weibo">Tencent Weibo (скачивание)</string>
-    <string name="share_to_renren">Поделиться с Renren</string>
-    <string name="download_renren">Renren (скачивание)</string>
-    <string name="share_to_qzone">Поделиться с QZone</string>
-    <string name="download_qzone">QZone (скачивание)</string>
-    <string name="no_share_app_find">Извините, но у Вас не установлено приложение для обмена</string>
-    <string name="share_with_friends">.Поделиться с друзьями！</string>
     <string name="dlg_low_power_notify_title">Малый заряд батареи</string>
     <string name="dlg_low_power_notify_msg">Батарея заряжена мене, чем на 30%. Рекомендуется запустить обновление после зарядки батареи</string>
     <string name="btn_ignore">Пропустить</string>
@@ -365,7 +354,6 @@
     <string name="cancle_select">Отмена</string>
     <string name="return_main">Назад</string>
     <string name="report">Отчет бэкапа</string>
-    <string name="backup_time">"Время бэкапа: "</string>
     <string name="delete_notice">Заметка</string>
     <string name="delete_msg">Удалить выделеное?</string>
     <string name="delete_ok">ОК</string>
@@ -385,7 +373,6 @@
     <string name="restore_notice_title">Восстановление</string>
     <string name="restore_notice_message">Обнаружен перед обновлением бэкап. Восстановить данные?</string>
     <string name="menu_restore">Восстановление</string>
-    <string name="report_save">Сохранить</string>
     <string name="report_abanded">Отказ</string>
     <string name="report_error">Пусто</string>
     <string name="permission_error">Ошибка доступа</string>

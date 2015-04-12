@@ -51,7 +51,7 @@
     <string name="update_no_more">Версия Вашего приложения самая последняя~</string>
     <string name="noti_noti_update_suffix">Lewa Маркет может обновить %1$s приложений</string>
     <string name="noti_noti_update_suffix2">Возможно обновление</string>
-    <string name="source_official">Lewa</string>
+
     <string name="app_praise">Нравится %1$s</string>
     <string name="app_praise_topic">%1$s лайков</string>
     <string name="app_status_download">Загрузить</string>
@@ -83,9 +83,9 @@
     <string name="update_all_tip">Обновляемые приложения</string>
     <string name="update_all_text">%1$s прил. можно обновить</string>
     <string name="menu_setting">Настройки</string>
-    <string name="setting_key_delete_apk">delete_apk</string>
-    <string name="setting_key_update_noti">update_noti</string>
-    <string name="setting_key_auto_update">auto_update</string>
+
+
+
     <string name="setting_delete_apk">Удалять apk после установки</string>
     <string name="setting_update_notification">Уведомление о наличии обновления</string>
     <string name="setting_auto_update">Автообновление</string>

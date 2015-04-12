@@ -160,4 +160,9 @@
     <string name="sure">Да</string>
     <string name="check_new_version">Поиск новой версии, ожидайте</string>
     <string name="my_app">Мое приложение</string>
+    <string name="donot_open">Временно открыто</string>
+    <string name="immediately_open">Запуск немедленно</string>
+    <string name="zero_flow_update_tips">Автоматическое обновление по Wi-Fi</string>
+    <string name="auto_update_tips">Автоматическое обновление без забот о трафике и батарее</string>
+    <string name="I_know">Понятно</string>
 </resources>
